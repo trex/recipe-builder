@@ -1,103 +1,141 @@
-import Image from "next/image";
+'use client'
+
+import { useState } from 'react';
+
+type Ingredient = {
+  name: string;
+  grams: number;
+  protein: number;
+  fat: number;
+  calcium: number;
+  calories: number;
+  phosphorus: number;
+  moisture: number;
+};
+
+const ingredients = [
+  { id: 'chicken_breast', label: 'Chicken Breast', protein: 31, fat: 3.6, calcium: 13, calories: 165, phosphorus: 210, moisture: 65 },
+  { id: 'beef_liver', label: 'Beef Liver', protein: 26, fat: 3.6, calcium: 11, calories: 135, phosphorus: 387, moisture: 71 },
+  { id: 'brown_rice', label: 'Brown Rice', protein: 2.6, fat: 0.9, calcium: 10, calories: 111, phosphorus: 103, moisture: 12 },
+  { id: 'carrot', label: 'Carrot', protein: 0.9, fat: 0.2, calcium: 33, calories: 41, phosphorus: 35, moisture: 88 },
+];
 
 export default function Home() {
-  return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="list-inside list-decimal text-sm/6 text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2 tracking-[-.01em]">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-[family-name:var(--font-geist-mono)] font-semibold">
-              src/app/page.tsx
-            </code>
-            .
-          </li>
-          <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
-          </li>
-        </ol>
+  const [selectedIngredient, setSelectedIngredient] = useState(ingredients[0].id);
+  const [amount, setAmount] = useState('');
+  const [recipe, setRecipe] = useState<Ingredient[]>([]);
 
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:w-auto"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
+  const handleAddIngredient = () => {
+    if (!amount) return;
+  
+    const ingredientData = ingredients.find(i => i.id === selectedIngredient);
+    if (!ingredientData) return;
+  
+    const grams = Number(amount);
+    const scale = grams / 100;
+  
+    setRecipe(prev => [
+      ...prev,
+      {
+        name: ingredientData.label,
+        grams,
+        protein: ingredientData.protein * scale,
+        fat: ingredientData.fat * scale,
+        calcium: ingredientData.calcium * scale,
+        calories: ingredientData.calories * scale,
+        phosphorus: ingredientData.phosphorus * scale,
+        moisture: ingredientData.moisture * scale,
+      },
+    ]);
+  
+    setAmount('');
+  };
+
+  const getTotals = () => {
+    return recipe.reduce(
+      (totals, item) => ({
+        protein: totals.protein + item.protein,
+        fat: totals.fat + item.fat,
+        calcium: totals.calcium + item.calcium,
+        calories: totals.calories + item.calories,
+        phosphorus: totals.phosphorus + item.phosphorus,
+        moisture: totals.moisture + item.moisture,
+      }),
+      { protein: 0, fat: 0, calcium: 0, calories: 0, phosphorus: 0, moisture: 0 }
+    );
+  };
+
+  const totals = getTotals();
+
+  return (
+    <main className="min-h-screen bg-yellow-500 flex flex-col items-center justify-start p-6">
+      <div className="w-full max-w-2xl bg-cyan-50 rounded-2xl shadow-lg p-8 mt-8">
+        <h1 className="text-3xl font-bold text-center text-gray-700 mb-6">
+          Pet Food Recipe Builder
+        </h1>
+
+        <div className="flex flex-col gap-4 mb-8">
+          <label className="flex flex-col">
+            <span className="text-gray-700 mb-1 font-medium">Select Ingredient:</span>
+            <select
+              value={selectedIngredient}
+              onChange={e => setSelectedIngredient(e.target.value)}
+              className="border border-gray-300 text-gray-700 rounded-lg p-2 focus:ring-blue-400 focus:border-blue-400"
+            >
+              {ingredients.map(ingredient => (
+                <option key={ingredient.id} value={ingredient.id}>
+                  {ingredient.label}
+                </option>
+              ))}
+            </select>
+          </label>
+
+          <label className="flex flex-col">
+            <span className="text-gray-700 mb-1 font-medium">Amount (grams):</span>
+            <input
+              type="number"
+              placeholder="Enter amount in grams"
+              value={amount}
+              onChange={e => setAmount(e.target.value)}
+              className="border border-gray-300 text-gray-700 rounded-lg p-2 focus:ring-blue-400 focus:border-blue-400"
             />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 w-full sm:w-auto md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
+          </label>
+
+          <button
+            onClick={handleAddIngredient}
+            className="mt-2 bg-cyan-300 hover:bg-cyan-400 text-gray-700 font-semibold py-2 px-4 rounded-lg transition"
           >
-            Read our docs
-          </a>
+            Add Ingredient
+          </button>
         </div>
-      </main>
-      <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
-    </div>
+
+        <div>
+          <h2 className="text-2xl font-semibold text-gray-700 mb-4">Current Recipe</h2>
+          {recipe.length === 0 ? (
+            <p className="text-gray-700">No ingredients added yet.</p>
+          ) : (
+            <ul className="list-disc list-inside space-y-2">
+              {recipe.map((item, index) => (
+                <li key={index} className="text-gray-700">
+                  <span className="font-medium">{item.name}</span>: {item.grams}g
+                </li>
+              ))}
+            </ul>
+          )}
+        </div>
+      </div>
+
+      <div className="mt-8">
+        <h2 className="text-2xl font-semibold text-gray-700 mb-4">Nutrition Totals</h2>
+        <ul className="space-y-1 text-gray-700">
+          <li><strong>Protein:</strong> {totals.protein.toFixed(1)} g</li>
+          <li><strong>Fat:</strong> {totals.fat.toFixed(1)} g</li>
+          <li><strong>Calcium:</strong> {totals.calcium.toFixed(1)} mg</li>
+          <li><strong>Calories:</strong> {totals.calories.toFixed(0)} kcal</li>
+          <li><strong>Phosphorus:</strong> {totals.phosphorus.toFixed(1)} mg</li>
+          <li><strong>Moisture:</strong> {totals.moisture.toFixed(1)} g</li>
+        </ul>
+      </div>
+    </main>
   );
 }

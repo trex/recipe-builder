@@ -1,21 +1,9 @@
 'use client'
 
 import { useState } from 'react';
-import petSuitableIngredients from '@/app/data/petSuitableIngredients.json';
+import { Ingredient, getIngredients } from "./ingredient";
 
-type Ingredient = {
-  name: string;
-  group: string;
-  grams: number;
-  protein: number;
-  fat: number;
-  calcium: number;
-  calories: number;
-  phosphorus: number;
-  moisture: number;
-};
-
-const ingredients = petSuitableIngredients;
+const ingredients = getIngredients();
 
 export default function Home() {
   const [selectedIngredient, setSelectedIngredient] = useState(ingredients[0].id);
@@ -34,8 +22,10 @@ export default function Home() {
     setRecipe(prev => [
       ...prev,
       {
-        name: ingredientData.label,
+        id: ingredientData.id,
+        label: ingredientData.label,
         grams,
+        category: ingredientData.category,
         group: ingredientData.group,
         protein: ingredientData.protein * scale,
         fat: ingredientData.fat * scale,
@@ -43,6 +33,7 @@ export default function Home() {
         calories: ingredientData.calories * scale,
         phosphorus: ingredientData.phosphorus * scale,
         moisture: ingredientData.moisture * scale,
+        highProteinFatScore: ingredientData.highProteinFatScore,
       },
     ]);
   
@@ -64,6 +55,8 @@ export default function Home() {
   };
 
   const totals = getTotals();
+
+  const milligramFactor = 1000;
 
   return (
     <main className="min-h-screen bg-yellow-500 flex flex-col items-center justify-start p-6">
@@ -115,7 +108,7 @@ export default function Home() {
             <ul className="list-disc list-inside space-y-2">
               {recipe.map((item, index) => (
                 <li key={index} className="text-gray-700">
-                  <span className="font-medium">{item.name}</span>: {item.grams}g
+                  <span className="font-medium">{item.label}</span>: {item.grams}g
                 </li>
               ))}
             </ul>
@@ -128,9 +121,9 @@ export default function Home() {
         <ul className="space-y-1 text-gray-700">
           <li><strong>Protein:</strong> {totals.protein.toFixed(1)} g</li>
           <li><strong>Fat:</strong> {totals.fat.toFixed(1)} g</li>
-          <li><strong>Calcium:</strong> {totals.calcium.toFixed(1)} mg</li>
+          <li><strong>Calcium:</strong> {(totals.calcium * milligramFactor).toFixed(1)} mg</li>
           <li><strong>Calories:</strong> {totals.calories.toFixed(0)} kcal</li>
-          <li><strong>Phosphorus:</strong> {totals.phosphorus.toFixed(1)} mg</li>
+          <li><strong>Phosphorus:</strong> {(totals.phosphorus * milligramFactor).toFixed(1)} mg</li>
           <li><strong>Moisture:</strong> {totals.moisture.toFixed(1)} g</li>
         </ul>
       </div>

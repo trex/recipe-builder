@@ -1,6 +1,7 @@
 'use client'
 
 import { useState } from 'react';
+import dummyIngredients from '@/app/data/dummyIngredients.json';
 
 type Ingredient = {
   name: string;
@@ -13,12 +14,7 @@ type Ingredient = {
   moisture: number;
 };
 
-const ingredients = [
-  { id: 'chicken_breast', label: 'Chicken Breast', protein: 31, fat: 3.6, calcium: 13, calories: 165, phosphorus: 210, moisture: 65 },
-  { id: 'beef_liver', label: 'Beef Liver', protein: 26, fat: 3.6, calcium: 11, calories: 135, phosphorus: 387, moisture: 71 },
-  { id: 'brown_rice', label: 'Brown Rice', protein: 2.6, fat: 0.9, calcium: 10, calories: 111, phosphorus: 103, moisture: 12 },
-  { id: 'carrot', label: 'Carrot', protein: 0.9, fat: 0.2, calcium: 33, calories: 41, phosphorus: 35, moisture: 88 },
-];
+const ingredients = dummyIngredients;
 
 export default function Home() {
   const [selectedIngredient, setSelectedIngredient] = useState(ingredients[0].id);

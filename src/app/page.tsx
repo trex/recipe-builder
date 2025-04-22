@@ -1,10 +1,11 @@
 'use client'
 
 import { useState } from 'react';
-import dummyIngredients from '@/app/data/dummyIngredients.json';
+import petSuitableIngredients from '@/app/data/petSuitableIngredients.json';
 
 type Ingredient = {
   name: string;
+  group: string;
   grams: number;
   protein: number;
   fat: number;
@@ -14,7 +15,7 @@ type Ingredient = {
   moisture: number;
 };
 
-const ingredients = dummyIngredients;
+const ingredients = petSuitableIngredients;
 
 export default function Home() {
   const [selectedIngredient, setSelectedIngredient] = useState(ingredients[0].id);
@@ -35,6 +36,7 @@ export default function Home() {
       {
         name: ingredientData.label,
         grams,
+        group: ingredientData.group,
         protein: ingredientData.protein * scale,
         fat: ingredientData.fat * scale,
         calcium: ingredientData.calcium * scale,

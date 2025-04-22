@@ -1,3 +1,6 @@
+# Recipe Builder
+This is a generalized meal recipe builder that will determine nutritional content based on the ingredients used.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -16,21 +19,10 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+##  Data
+The data set used in this application is the open Foundation Foods dataset published by the [USDA FoodData Central](https://fdc.nal.usda.gov/Foundation_Foods_Documentation)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Data Transformation
+The [simplify_usda_foundation_foods_data.py](src/app/data/simplify_usda_foundation_foods_data.py) script can be run against the Foundation Foods JSON dataset in order to simplify and flatten the data.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The [filter_pet_friendly_ingredients.py](src/app/data/filter_pet_friendly_ingredients.py) can be run against the output of the [simplify_usda_foundation_foods_data.py](src/app/data/simplify_usda_foundation_foods_data.py) to retrieve the ingredients that may be suitable for meals prepared for dogs and cats.

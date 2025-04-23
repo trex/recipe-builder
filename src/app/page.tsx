@@ -1,62 +1,46 @@
-'use client'
+"use client";
 
-import { useState } from 'react';
+import { useState } from "react";
 import { Ingredient, getIngredients } from "./ingredient";
+import Recipe from "./recipe";
 
 const ingredients = getIngredients();
 
 export default function Home() {
-  const [selectedIngredient, setSelectedIngredient] = useState(ingredients[0].id);
-  const [amount, setAmount] = useState('');
+  const [selectedIngredient, setSelectedIngredient] = useState(
+    ingredients[0].id
+  );
+  const [amount, setAmount] = useState("");
   const [recipe, setRecipe] = useState<Ingredient[]>([]);
 
   const handleAddIngredient = () => {
     if (!amount) return;
-  
-    const ingredientData = ingredients.find(i => i.id === selectedIngredient);
+
+    const ingredientData = ingredients.find((i) => i.id === selectedIngredient);
     if (!ingredientData) return;
-  
+
     const grams = Number(amount);
-    const scale = grams / 100;
-  
-    setRecipe(prev => [
+
+    setRecipe((prev) => [
       ...prev,
       {
         id: ingredientData.id,
         label: ingredientData.label,
-        grams,
+        weightInGrams: grams,
         category: ingredientData.category,
         group: ingredientData.group,
-        protein: ingredientData.protein * scale,
-        fat: ingredientData.fat * scale,
-        calcium: ingredientData.calcium * scale,
-        calories: ingredientData.calories * scale,
-        phosphorus: ingredientData.phosphorus * scale,
-        moisture: ingredientData.moisture * scale,
+        protein: ingredientData.protein,
+        fat: ingredientData.fat,
+        calcium: ingredientData.calcium,
+        kcals: ingredientData.kcals,
+        phosphorus: ingredientData.phosphorus,
+        moisture: ingredientData.moisture,
         highProteinFatScore: ingredientData.highProteinFatScore,
       },
     ]);
-  
-    setAmount('');
+
+    setAmount("");
   };
-
-  const getTotals = () => {
-    return recipe.reduce(
-      (totals, item) => ({
-        protein: totals.protein + item.protein,
-        fat: totals.fat + item.fat,
-        calcium: totals.calcium + item.calcium,
-        calories: totals.calories + item.calories,
-        phosphorus: totals.phosphorus + item.phosphorus,
-        moisture: totals.moisture + item.moisture,
-      }),
-      { protein: 0, fat: 0, calcium: 0, calories: 0, phosphorus: 0, moisture: 0 }
-    );
-  };
-
-  const totals = getTotals();
-
-  const milligramFactor = 1000;
 
   return (
     <main className="min-h-screen bg-yellow-500 flex flex-col items-center justify-start p-6">
@@ -67,13 +51,15 @@ export default function Home() {
 
         <div className="flex flex-col gap-4 mb-8">
           <label className="flex flex-col">
-            <span className="text-gray-700 mb-1 font-medium">Select Ingredient:</span>
+            <span className="text-gray-700 mb-1 font-medium">
+              Select Ingredient:
+            </span>
             <select
               value={selectedIngredient}
-              onChange={e => setSelectedIngredient(e.target.value)}
+              onChange={(e) => setSelectedIngredient(e.target.value)}
               className="border border-gray-300 text-gray-700 rounded-lg p-2 focus:ring-blue-400 focus:border-blue-400"
             >
-              {ingredients.map(ingredient => (
+              {ingredients.map((ingredient) => (
                 <option key={ingredient.id} value={ingredient.id}>
                   {ingredient.label}
                 </option>
@@ -82,12 +68,14 @@ export default function Home() {
           </label>
 
           <label className="flex flex-col">
-            <span className="text-gray-700 mb-1 font-medium">Amount (grams):</span>
+            <span className="text-gray-700 mb-1 font-medium">
+              Amount (grams):
+            </span>
             <input
               type="number"
               placeholder="Enter amount in grams"
               value={amount}
-              onChange={e => setAmount(e.target.value)}
+              onChange={(e) => setAmount(e.target.value)}
               className="border border-gray-300 text-gray-700 rounded-lg p-2 focus:ring-blue-400 focus:border-blue-400"
             />
           </label>
@@ -99,34 +87,9 @@ export default function Home() {
             Add Ingredient
           </button>
         </div>
-
-        <div>
-          <h2 className="text-2xl font-semibold text-gray-700 mb-4">Current Recipe</h2>
-          {recipe.length === 0 ? (
-            <p className="text-gray-700">No ingredients added yet.</p>
-          ) : (
-            <ul className="list-disc list-inside space-y-2">
-              {recipe.map((item, index) => (
-                <li key={index} className="text-gray-700">
-                  <span className="font-medium">{item.label}</span>: {item.grams}g
-                </li>
-              ))}
-            </ul>
-          )}
-        </div>
       </div>
 
-      <div className="mt-8">
-        <h2 className="text-2xl font-semibold text-gray-700 mb-4">Nutrition Totals</h2>
-        <ul className="space-y-1 text-gray-700">
-          <li><strong>Protein:</strong> {totals.protein.toFixed(1)} g</li>
-          <li><strong>Fat:</strong> {totals.fat.toFixed(1)} g</li>
-          <li><strong>Calcium:</strong> {(totals.calcium * milligramFactor).toFixed(1)} mg</li>
-          <li><strong>Calories:</strong> {totals.calories.toFixed(0)} kcal</li>
-          <li><strong>Phosphorus:</strong> {(totals.phosphorus * milligramFactor).toFixed(1)} mg</li>
-          <li><strong>Moisture:</strong> {totals.moisture.toFixed(1)} g</li>
-        </ul>
-      </div>
+      <Recipe recipe={recipe} />
     </main>
   );
 }

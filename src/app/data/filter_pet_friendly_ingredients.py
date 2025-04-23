@@ -5,17 +5,20 @@ data_dir = 'src/app/data/'
 # Safe fruits and vegetables
 SAFE_PLANT_KEYWORDS = [
     "carrot", "blueberry", "apple", "pumpkin", "sweet potato",
-    "green bean", "zucchini", "pea", "spinach", "broccoli"
+    "green bean", "zucchini", "pea", "spinach", "broccoli", "kale",
+    "avocado", "rosemary", "peach", "cherries", "apricot", "walnut",
+    "almond", "pecan", "mushroom", "garlic", "peanut", "sunflower seed",
+    "pumpkin seed"
 ]
 
 # Safe broad food groups
 SAFE_GROUPS = [
-    "Meat", "Poultry", "Seafood", "Dairy", "Egg", "Vegetables", "Fruits"
+    "Meat", "Poultry", "Seafood", "Dairy", "Egg", "Vegetable", "Fruit", "Nuts/Seeds", "Grain", "Oil"
 ]
 
 # Words indicating heavy processing we want to exclude
 EXCLUDED_KEYWORDS = [
-    "baked", "fried", "breaded", "snack", "confectionery", "candy", "chips"
+    "baked", "fried", "breaded", "snack", "confectionery", "candy", "chips", "juice"
 ]
 
 def is_suitable(food):

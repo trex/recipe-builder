@@ -38,41 +38,55 @@ with open(f'{data_dir}foundationFoods.json', 'r') as f:
 
 simplified = []
 
+energy_names = [
+    "Energy",
+    "Energy (Atwater General Factors)",
+    "Energy (Atwater Specific Factors)"
+]
+
+expected_nutrients = {
+    'Protein': ('protein', 'g'),
+    'Total lipid (fat)': ('fat', 'g'),
+    'Calcium, Ca': ('calcium', 'mg'),
+    'Energy': ('kcals', 'kcal'),
+    'Phosphorus, P': ('phosphorus', 'mg'),
+    'Water': ('moisture', 'g')
+}
+
+kj_factor = 4.184
+
 for food in data['FoundationFoods']:
     food_id = food.get('fdcId')
     description = food.get('description')
     raw_category = food.get('foodCategory', {}).get('description', 'Unknown')
     broad_category = map_category(raw_category)
 
-    expected_nutrients = {
-        'Protein': ('protein', 'g', 1),
-        'Total lipid (fat)': ('fat', 'g', 1),
-        'Calcium, Ca': ('calcium', 'mg', 1/1000),
-        'Energy': ('calories', 'kcal', 1),
-        'Phosphorus, P': ('phosphorus', 'mg', 1/1000),
-        'Moisture': ('moisture', 'g', 1)
-    }
-
     nutrient_values = {v[0]: 0 for v in expected_nutrients.values()}
+
 
     for nutrient in food.get('foodNutrients', []):
         nutrient_info = nutrient.get('nutrient', {})
         name = nutrient_info.get('name')
         unit = nutrient_info.get('unitName')
         amount = nutrient.get('amount')
+        unitType = unit.lower()
+
+        if name in energy_names:
+            # Convert kilojoules to kilocalories
+            if unitType == 'kj':
+                amount = amount / kj_factor
+                unitType = 'kcal'
+            # Normalize the name to match the expected nutrient name of Energy
+            name = "Energy"
 
         if name in expected_nutrients:
-            field_name, expected_unit, conversion_factor = expected_nutrients[name]
-            
-            unitType = unit.lower()
-            if unitType == 'kj' or unitType == 'kcal':
-                unitType = 'kcal'
+            field_name, expected_unit = expected_nutrients[name]
 
             if unitType != expected_unit:
                 print(f"Warning: {description} - {name} unit mismatch! Expected {expected_unit}, found {unit}. Skipping...")
                 continue
 
-            nutrient_values[field_name] = (amount or 0) * conversion_factor
+            nutrient_values[field_name] = amount
 
     # Filter: Keep foods with some protein or fat
     if nutrient_values['protein'] > 0 or nutrient_values['fat'] > 0:

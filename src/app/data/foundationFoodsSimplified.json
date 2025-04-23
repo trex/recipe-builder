@@ -6,11 +6,11 @@
     "group": "Nuts/Seeds",
     "protein": 20.8,
     "fat": 53.0,
-    "calcium": 0.264,
-    "calories": 0,
-    "phosphorus": 0.507,
-    "moisture": 0,
-    "highProteinFatScore": 121.1
+    "calcium": 264,
+    "kcals": 603,
+    "phosphorus": 507,
+    "moisture": 1.75,
+    "highProteinFatScore": 120.22
   },
   {
     "id": "2257045",
@@ -19,11 +19,11 @@
     "group": "Other",
     "protein": 0.656,
     "fat": 1.56,
-    "calcium": 0.158,
-    "calories": 0,
-    "phosphorus": 0.019100000000000002,
-    "moisture": 0,
-    "highProteinFatScore": 3.65
+    "calcium": 158,
+    "kcals": 19.3,
+    "phosphorus": 19.1,
+    "moisture": 96.5,
+    "highProteinFatScore": -44.6
   },
   {
     "id": "1999631",
@@ -32,11 +32,11 @@
     "group": "Other",
     "protein": 0.555,
     "fat": 1.22,
-    "calcium": 0.17300000000000001,
-    "calories": 0,
-    "phosphorus": 0.0298,
-    "moisture": 0,
-    "highProteinFatScore": 2.94
+    "calcium": 173,
+    "kcals": 14.6,
+    "phosphorus": 29.8,
+    "moisture": 97.4,
+    "highProteinFatScore": -45.76
   },
   {
     "id": "2003590",
@@ -45,11 +45,11 @@
     "group": "Fruit",
     "protein": 0.086,
     "fat": 0.286,
-    "calcium": 0.0070999999999999995,
-    "calories": 0,
-    "phosphorus": 0.0059900000000000005,
-    "moisture": 0,
-    "highProteinFatScore": 0.6
+    "calcium": 7.1,
+    "kcals": 47.2,
+    "phosphorus": 5.99,
+    "moisture": 88.1,
+    "highProteinFatScore": -43.45
   },
   {
     "id": "1750340",
@@ -58,11 +58,11 @@
     "group": "Fruit",
     "protein": 0.148,
     "fat": 0.162,
-    "calcium": 0.005980000000000001,
-    "calories": 0,
-    "phosphorus": 0.009779999999999999,
-    "moisture": 0,
-    "highProteinFatScore": 0.54
+    "calcium": 5.98,
+    "kcals": 58.2,
+    "phosphorus": 9.78,
+    "moisture": 83.6,
+    "highProteinFatScore": -41.26
   },
   {
     "id": "1750341",
@@ -71,11 +71,11 @@
     "group": "Fruit",
     "protein": 0.133,
     "fat": 0.15,
-    "calcium": 0.00664,
-    "calories": 0,
-    "phosphorus": 0.00844,
-    "moisture": 0,
-    "highProteinFatScore": 0.49
+    "calcium": 6.64,
+    "kcals": 54.9,
+    "phosphorus": 8.44,
+    "moisture": 84.6,
+    "highProteinFatScore": -41.81
   },
   {
     "id": "1750342",
@@ -84,11 +84,11 @@
     "group": "Fruit",
     "protein": 0.266,
     "fat": 0.138,
-    "calcium": 0.0054800000000000005,
-    "calories": 0,
-    "phosphorus": 0.009859999999999999,
-    "moisture": 0,
-    "highProteinFatScore": 0.74
+    "calcium": 5.48,
+    "kcals": 53.0,
+    "phosphorus": 9.86,
+    "moisture": 85.1,
+    "highProteinFatScore": -41.81
   },
   {
     "id": "1750343",
@@ -97,11 +97,11 @@
     "group": "Fruit",
     "protein": 0.102,
     "fat": 0.1,
-    "calcium": 0.00387,
-    "calories": 0,
-    "phosphorus": 0.00785,
-    "moisture": 0,
-    "highProteinFatScore": 0.35
+    "calcium": 3.87,
+    "kcals": 54.0,
+    "phosphorus": 7.85,
+    "moisture": 85.0,
+    "highProteinFatScore": -42.15
   },
   {
     "id": "1750339",
@@ -110,11 +110,11 @@
     "group": "Fruit",
     "protein": 0.188,
     "fat": 0.212,
-    "calcium": 0.00466,
-    "calories": 0,
-    "phosphorus": 0.00918,
-    "moisture": 0,
-    "highProteinFatScore": 0.69
+    "calcium": 4.66,
+    "kcals": 55.6,
+    "phosphorus": 9.18,
+    "moisture": 84.7,
+    "highProteinFatScore": -41.66
   },
   {
     "id": "2346414",
@@ -123,11 +123,11 @@
     "group": "Fruit",
     "protein": 0.273,
     "fat": 0.162,
-    "calcium": 0.00382,
-    "calories": 0,
-    "phosphorus": 0.00912,
-    "moisture": 0,
-    "highProteinFatScore": 0.79
+    "calcium": 3.82,
+    "kcals": 46.4,
+    "phosphorus": 9.12,
+    "moisture": 87.1,
+    "highProteinFatScore": -42.76
   },
   {
     "id": "2710815",
@@ -136,11 +136,11 @@
     "group": "Fruit",
     "protein": 0.961,
     "fat": 0.405,
-    "calcium": 0.0116,
-    "calories": 0,
-    "phosphorus": 0.0225,
-    "moisture": 0,
-    "highProteinFatScore": 2.53
+    "calcium": 11.6,
+    "kcals": 43.5,
+    "phosphorus": 22.5,
+    "moisture": 87.9,
+    "highProteinFatScore": -41.42
   },
   {
     "id": "2710822",
@@ -149,11 +149,11 @@
     "group": "Vegetable",
     "protein": 1.65,
     "fat": 0.325,
-    "calcium": 0.20400000000000001,
-    "calories": 0,
-    "phosphorus": 0.0512,
-    "moisture": 0,
-    "highProteinFatScore": 3.79
+    "calcium": 204,
+    "kcals": 25.9,
+    "phosphorus": 51.2,
+    "moisture": 90.9,
+    "highProteinFatScore": -41.66
   },
   {
     "id": "2710823",
@@ -162,11 +162,11 @@
     "group": "Vegetable",
     "protein": 1.44,
     "fat": 0.216,
-    "calcium": 0.0206,
-    "calories": 0,
-    "phosphorus": 0.053899999999999997,
-    "moisture": 0,
-    "highProteinFatScore": 3.2
+    "calcium": 20.6,
+    "kcals": 23.5,
+    "phosphorus": 53.9,
+    "moisture": 92.6,
+    "highProteinFatScore": -43.1
   },
   {
     "id": "2710824",
@@ -175,11 +175,11 @@
     "group": "Fruit",
     "protein": 1.81,
     "fat": 20.3,
-    "calcium": 0.0145,
-    "calories": 0,
-    "phosphorus": 0.0424,
-    "moisture": 0,
-    "highProteinFatScore": 34.07
+    "calcium": 14.5,
+    "kcals": 206,
+    "phosphorus": 42.4,
+    "moisture": 67.0,
+    "highProteinFatScore": 0.57
   },
   {
     "id": "1105073",
@@ -189,10 +189,10 @@
     "protein": 0.73,
     "fat": 0.22,
     "calcium": 0,
-    "calories": 357,
+    "kcals": 85.32504780114722,
     "phosphorus": 0,
-    "moisture": 0,
-    "highProteinFatScore": 1.79
+    "moisture": 78.3,
+    "highProteinFatScore": -37.36
   },
   {
     "id": "1105314",
@@ -201,11 +201,11 @@
     "group": "Fruit",
     "protein": 0.74,
     "fat": 0.29,
-    "calcium": 0.005,
-    "calories": 97.0,
-    "phosphorus": 0.022,
-    "moisture": 0,
-    "highProteinFatScore": 1.92
+    "calcium": 5.0,
+    "kcals": 97.0,
+    "phosphorus": 22.0,
+    "moisture": 75.3,
+    "highProteinFatScore": -35.73
   },
   {
     "id": "747444",
@@ -214,10 +214,10 @@
     "group": "Vegetable",
     "protein": 24.4,
     "fat": 1.45,
-    "calcium": 0.191,
-    "calories": 0,
-    "phosphorus": 0.522,
-    "moisture": 0,
+    "calcium": 191,
+    "kcals": 0,
+    "phosphorus": 522,
+    "moisture": 0.0,
     "highProteinFatScore": 50.97
   },
   {
@@ -227,10 +227,10 @@
     "group": "Vegetable",
     "protein": 25.6,
     "fat": 1.12,
-    "calcium": 0.158,
-    "calories": 0,
-    "phosphorus": 0.543,
-    "moisture": 0,
+    "calcium": 158,
+    "kcals": 0,
+    "phosphorus": 543,
+    "moisture": 0.0,
     "highProteinFatScore": 52.88
   },
   {
@@ -240,10 +240,10 @@
     "group": "Vegetable",
     "protein": 25.2,
     "fat": 1.44,
-    "calcium": 0.194,
-    "calories": 0,
-    "phosphorus": 0.535,
-    "moisture": 0,
+    "calcium": 194,
+    "kcals": 0,
+    "phosphorus": 535,
+    "moisture": 0.0,
     "highProteinFatScore": 52.56
   },
   {
@@ -253,10 +253,10 @@
     "group": "Vegetable",
     "protein": 24.4,
     "fat": 1.23,
-    "calcium": 0.152,
-    "calories": 0,
-    "phosphorus": 0.487,
-    "moisture": 0,
+    "calcium": 152,
+    "kcals": 0,
+    "phosphorus": 487,
+    "moisture": 0.0,
     "highProteinFatScore": 50.64
   },
   {
@@ -266,10 +266,10 @@
     "group": "Vegetable",
     "protein": 25.9,
     "fat": 1.31,
-    "calcium": 0.098,
-    "calories": 0,
-    "phosphorus": 0.612,
-    "moisture": 0,
+    "calcium": 98.0,
+    "kcals": 0,
+    "phosphorus": 612,
+    "moisture": 0.0,
     "highProteinFatScore": 53.77
   },
   {
@@ -279,10 +279,10 @@
     "group": "Vegetable",
     "protein": 23.3,
     "fat": 0.86,
-    "calcium": 0.18,
-    "calories": 0,
-    "phosphorus": 0.439,
-    "moisture": 0,
+    "calcium": 180,
+    "kcals": 0,
+    "phosphorus": 439,
+    "moisture": 0.0,
     "highProteinFatScore": 47.89
   },
   {
@@ -292,10 +292,10 @@
     "group": "Vegetable",
     "protein": 24.7,
     "fat": 1.24,
-    "calcium": 0.192,
-    "calories": 0,
-    "phosphorus": 0.519,
-    "moisture": 0,
+    "calcium": 192,
+    "kcals": 0,
+    "phosphorus": 519,
+    "moisture": 0.0,
     "highProteinFatScore": 51.26
   },
   {
@@ -305,10 +305,10 @@
     "group": "Vegetable",
     "protein": 25.0,
     "fat": 1.03,
-    "calcium": 0.10300000000000001,
-    "calories": 0,
-    "phosphorus": 0.549,
-    "moisture": 0,
+    "calcium": 103,
+    "kcals": 0,
+    "phosphorus": 549,
+    "moisture": 0.0,
     "highProteinFatScore": 51.55
   },
   {
@@ -318,10 +318,10 @@
     "group": "Vegetable",
     "protein": 24.6,
     "fat": 1.28,
-    "calcium": 0.098,
-    "calories": 0,
-    "phosphorus": 0.5710000000000001,
-    "moisture": 0,
+    "calcium": 98.0,
+    "kcals": 0,
+    "phosphorus": 571,
+    "moisture": 0.0,
     "highProteinFatScore": 51.12
   },
   {
@@ -331,10 +331,10 @@
     "group": "Vegetable",
     "protein": 25.5,
     "fat": 1.04,
-    "calcium": 0.193,
-    "calories": 0,
-    "phosphorus": 0.548,
-    "moisture": 0,
+    "calcium": 193,
+    "kcals": 0,
+    "phosphorus": 548,
+    "moisture": 0.0,
     "highProteinFatScore": 52.56
   },
   {
@@ -344,10 +344,10 @@
     "group": "Vegetable",
     "protein": 24.1,
     "fat": 1.51,
-    "calcium": 0.229,
-    "calories": 0,
-    "phosphorus": 0.523,
-    "moisture": 0,
+    "calcium": 229,
+    "kcals": 0,
+    "phosphorus": 523,
+    "moisture": 0.0,
     "highProteinFatScore": 50.47
   },
   {
@@ -357,10 +357,10 @@
     "group": "Vegetable",
     "protein": 23.4,
     "fat": 1.2,
-    "calcium": 0.137,
-    "calories": 0,
-    "phosphorus": 0.491,
-    "moisture": 0,
+    "calcium": 137,
+    "kcals": 0,
+    "phosphorus": 491,
+    "moisture": 0.0,
     "highProteinFatScore": 48.6
   },
   {
@@ -370,10 +370,10 @@
     "group": "Vegetable",
     "protein": 23.7,
     "fat": 1.24,
-    "calcium": 0.161,
-    "calories": 0,
-    "phosphorus": 0.507,
-    "moisture": 0,
+    "calcium": 161,
+    "kcals": 0,
+    "phosphorus": 507,
+    "moisture": 0.0,
     "highProteinFatScore": 49.26
   },
   {
@@ -383,10 +383,10 @@
     "group": "Vegetable",
     "protein": 21.3,
     "fat": 1.16,
-    "calcium": 0.148,
-    "calories": 0,
-    "phosphorus": 0.38,
-    "moisture": 0,
+    "calcium": 148,
+    "kcals": 0,
+    "phosphorus": 380,
+    "moisture": 0.0,
     "highProteinFatScore": 44.34
   },
   {
@@ -396,10 +396,10 @@
     "group": "Vegetable",
     "protein": 23.5,
     "fat": 1.28,
-    "calcium": 0.149,
-    "calories": 0,
-    "phosphorus": 0.493,
-    "moisture": 0,
+    "calcium": 149,
+    "kcals": 0,
+    "phosphorus": 493,
+    "moisture": 0.0,
     "highProteinFatScore": 48.92
   },
   {
@@ -409,10 +409,10 @@
     "group": "Vegetable",
     "protein": 24.5,
     "fat": 1.32,
-    "calcium": 0.23600000000000002,
-    "calories": 0,
-    "phosphorus": 0.533,
-    "moisture": 0,
+    "calcium": 236,
+    "kcals": 0,
+    "phosphorus": 533,
+    "moisture": 0.0,
     "highProteinFatScore": 50.98
   },
   {
@@ -422,10 +422,10 @@
     "group": "Vegetable",
     "protein": 26.8,
     "fat": 1.14,
-    "calcium": 0.178,
-    "calories": 0,
-    "phosphorus": 0.555,
-    "moisture": 0,
+    "calcium": 178,
+    "kcals": 0,
+    "phosphorus": 555,
+    "moisture": 0.0,
     "highProteinFatScore": 55.31
   },
   {
@@ -435,11 +435,11 @@
     "group": "Vegetable",
     "protein": 6.91,
     "fat": 1.27,
-    "calcium": 0.0433,
-    "calories": 0,
-    "phosphorus": 0.091,
-    "moisture": 0,
-    "highProteinFatScore": 15.72
+    "calcium": 43.3,
+    "kcals": 118,
+    "phosphorus": 91.0,
+    "moisture": 70.8,
+    "highProteinFatScore": -19.67
   },
   {
     "id": "2644287",
@@ -448,11 +448,11 @@
     "group": "Vegetable",
     "protein": 7.41,
     "fat": 1.17,
-    "calcium": 0.0692,
-    "calories": 0,
-    "phosphorus": 0.0947,
-    "moisture": 0,
-    "highProteinFatScore": 16.57
+    "calcium": 69.2,
+    "kcals": 112,
+    "phosphorus": 94.7,
+    "moisture": 71.5,
+    "highProteinFatScore": -19.18
   },
   {
     "id": "2644281",
@@ -461,11 +461,11 @@
     "group": "Vegetable",
     "protein": 21.6,
     "fat": 2.2,
-    "calcium": 0.14300000000000002,
-    "calories": 0,
-    "phosphorus": 0.41200000000000003,
-    "moisture": 0,
-    "highProteinFatScore": 46.5
+    "calcium": 143,
+    "kcals": 337,
+    "phosphorus": 412,
+    "moisture": 12.3,
+    "highProteinFatScore": 40.35
   },
   {
     "id": "2644294",
@@ -474,11 +474,11 @@
     "group": "Vegetable",
     "protein": 7.03,
     "fat": 1.27,
-    "calcium": 0.06720000000000001,
-    "calories": 0,
-    "phosphorus": 0.0886,
-    "moisture": 0,
-    "highProteinFatScore": 15.96
+    "calcium": 67.2,
+    "kcals": 114,
+    "phosphorus": 88.6,
+    "moisture": 71.2,
+    "highProteinFatScore": -19.64
   },
   {
     "id": "2644289",
@@ -487,11 +487,11 @@
     "group": "Vegetable",
     "protein": 7.8,
     "fat": 1.26,
-    "calcium": 0.0569,
-    "calories": 0,
-    "phosphorus": 0.10400000000000001,
-    "moisture": 0,
-    "highProteinFatScore": 17.49
+    "calcium": 56.9,
+    "kcals": 123,
+    "phosphorus": 104,
+    "moisture": 68.8,
+    "highProteinFatScore": -16.91
   },
   {
     "id": "2644290",
@@ -500,11 +500,11 @@
     "group": "Vegetable",
     "protein": 7.31,
     "fat": 1.3,
-    "calcium": 0.060200000000000004,
-    "calories": 0,
-    "phosphorus": 0.0936,
-    "moisture": 0,
-    "highProteinFatScore": 16.57
+    "calcium": 60.2,
+    "kcals": 124,
+    "phosphorus": 93.6,
+    "moisture": 68.9,
+    "highProteinFatScore": -17.88
   },
   {
     "id": "2644286",
@@ -513,11 +513,11 @@
     "group": "Vegetable",
     "protein": 6.57,
     "fat": 1.4,
-    "calcium": 0.0639,
-    "calories": 0,
-    "phosphorus": 0.0867,
-    "moisture": 0,
-    "highProteinFatScore": 15.24
+    "calcium": 63.9,
+    "kcals": 116,
+    "phosphorus": 86.7,
+    "moisture": 71.0,
+    "highProteinFatScore": -20.26
   },
   {
     "id": "2644292",
@@ -526,11 +526,11 @@
     "group": "Vegetable",
     "protein": 6.69,
     "fat": 1.27,
-    "calcium": 0.055200000000000006,
-    "calories": 0,
-    "phosphorus": 0.0831,
-    "moisture": 0,
-    "highProteinFatScore": 15.29
+    "calcium": 55.2,
+    "kcals": 114,
+    "phosphorus": 83.1,
+    "moisture": 71.3,
+    "highProteinFatScore": -20.36
   },
   {
     "id": "321611",
@@ -539,11 +539,11 @@
     "group": "Vegetable",
     "protein": 1.04,
     "fat": 0.39,
-    "calcium": 0.036000000000000004,
-    "calories": 86.0,
-    "phosphorus": 0.023,
-    "moisture": 0,
-    "highProteinFatScore": 2.67
+    "calcium": 36.0,
+    "kcals": 20.554493307839387,
+    "phosphorus": 23.0,
+    "moisture": 93.6,
+    "highProteinFatScore": -44.13
   },
   {
     "id": "2346400",
@@ -552,11 +552,11 @@
     "group": "Vegetable",
     "protein": 1.97,
     "fat": 0.275,
-    "calcium": 0.04,
-    "calories": 0,
-    "phosphorus": 0.0412,
-    "moisture": 0,
-    "highProteinFatScore": 4.35
+    "calcium": 40.0,
+    "kcals": 33.6,
+    "phosphorus": 41.2,
+    "moisture": 89.7,
+    "highProteinFatScore": -40.5
   },
   {
     "id": "2646174",
@@ -565,11 +565,11 @@
     "group": "Meat",
     "protein": 18.4,
     "fat": 17.8,
-    "calcium": 0.00458,
-    "calories": 0,
-    "phosphorus": 0.151,
-    "moisture": 0,
-    "highProteinFatScore": 63.5
+    "calcium": 4.58,
+    "kcals": 237,
+    "phosphorus": 151,
+    "moisture": 63.4,
+    "highProteinFatScore": 31.8
   },
   {
     "id": "2646175",
@@ -578,11 +578,11 @@
     "group": "Meat",
     "protein": 20.1,
     "fat": 9.4,
-    "calcium": 0.00384,
-    "calories": 0,
-    "phosphorus": 0.167,
-    "moisture": 0,
-    "highProteinFatScore": 54.3
+    "calcium": 3.84,
+    "kcals": 170,
+    "phosphorus": 167,
+    "moisture": 69.8,
+    "highProteinFatScore": 19.4
   },
   {
     "id": "2514744",
@@ -591,11 +591,11 @@
     "group": "Meat",
     "protein": 17.5,
     "fat": 19.4,
-    "calcium": 0.006889999999999999,
-    "calories": 0,
-    "phosphorus": 0.14400000000000002,
-    "moisture": 0,
-    "highProteinFatScore": 64.1
+    "calcium": 6.89,
+    "kcals": 248,
+    "phosphorus": 144,
+    "moisture": 62.8,
+    "highProteinFatScore": 32.7
   },
   {
     "id": "2514743",
@@ -604,11 +604,11 @@
     "group": "Meat",
     "protein": 18.2,
     "fat": 12.8,
-    "calcium": 0.00714,
-    "calories": 0,
-    "phosphorus": 0.148,
-    "moisture": 0,
-    "highProteinFatScore": 55.6
+    "calcium": 7.14,
+    "kcals": 190,
+    "phosphorus": 148,
+    "moisture": 69.0,
+    "highProteinFatScore": 21.1
   },
   {
     "id": "746758",
@@ -617,11 +617,11 @@
     "group": "Meat",
     "protein": 27.7,
     "fat": 6.36,
-    "calcium": 0.013000000000000001,
-    "calories": 735,
-    "phosphorus": 0.259,
-    "moisture": 0,
-    "highProteinFatScore": 64.94
+    "calcium": 13.0,
+    "kcals": 175.66921606118547,
+    "phosphorus": 259,
+    "moisture": 65.7,
+    "highProteinFatScore": 32.09
   },
   {
     "id": "746759",
@@ -630,11 +630,11 @@
     "group": "Meat",
     "protein": 22.8,
     "fat": 6.39,
-    "calcium": 0.015,
-    "calories": 648,
-    "phosphorus": 0.20600000000000002,
-    "moisture": 0,
-    "highProteinFatScore": 55.19
+    "calcium": 15.0,
+    "kcals": 154.87571701720842,
+    "phosphorus": 206,
+    "moisture": 69.9,
+    "highProteinFatScore": 20.23
   },
   {
     "id": "2646172",
@@ -643,11 +643,11 @@
     "group": "Meat",
     "protein": 18.7,
     "fat": 20.0,
-    "calcium": 0.00417,
-    "calories": 0,
-    "phosphorus": 0.15,
-    "moisture": 0,
-    "highProteinFatScore": 67.4
+    "calcium": 4.17,
+    "kcals": 260,
+    "phosphorus": 150,
+    "moisture": 60.6,
+    "highProteinFatScore": 37.1
   },
   {
     "id": "746760",
@@ -656,11 +656,11 @@
     "group": "Meat",
     "protein": 23.4,
     "fat": 2.48,
-    "calcium": 0.013000000000000001,
-    "calories": 122,
-    "phosphorus": 0.222,
-    "moisture": 0,
-    "highProteinFatScore": 50.52
+    "calcium": 13.0,
+    "kcals": 122,
+    "phosphorus": 222,
+    "moisture": 73.7,
+    "highProteinFatScore": 13.67
   },
   {
     "id": "746761",
@@ -669,11 +669,11 @@
     "group": "Meat",
     "protein": 23.7,
     "fat": 2.41,
-    "calcium": 0.013000000000000001,
-    "calories": 514,
-    "phosphorus": 0.22,
-    "moisture": 0,
-    "highProteinFatScore": 51.02
+    "calcium": 13.0,
+    "kcals": 122.848948374761,
+    "phosphorus": 220,
+    "moisture": 73.3,
+    "highProteinFatScore": 14.37
   },
   {
     "id": "2646173",
@@ -682,11 +682,11 @@
     "group": "Meat",
     "protein": 21.5,
     "fat": 5.7,
-    "calcium": 0.004070000000000001,
-    "calories": 0,
-    "phosphorus": 0.192,
-    "moisture": 0,
-    "highProteinFatScore": 51.55
+    "calcium": 4.07,
+    "kcals": 146,
+    "phosphorus": 192,
+    "moisture": 70.9,
+    "highProteinFatScore": 16.1
   },
   {
     "id": "746762",
@@ -695,11 +695,11 @@
     "group": "Meat",
     "protein": 22.7,
     "fat": 5.32,
-    "calcium": 0.019,
-    "calories": 606,
-    "phosphorus": 0.2,
-    "moisture": 0,
-    "highProteinFatScore": 53.38
+    "calcium": 19.0,
+    "kcals": 144.83747609942637,
+    "phosphorus": 200,
+    "moisture": 71.4,
+    "highProteinFatScore": 17.68
   },
   {
     "id": "746763",
@@ -708,11 +708,11 @@
     "group": "Meat",
     "protein": 27.3,
     "fat": 11.4,
-    "calcium": 0.019,
-    "calories": 219,
-    "phosphorus": 0.211,
-    "moisture": 0,
-    "highProteinFatScore": 71.7
+    "calcium": 19.0,
+    "kcals": 219,
+    "phosphorus": 211,
+    "moisture": 60.3,
+    "highProteinFatScore": 41.55
   },
   {
     "id": "2685576",
@@ -721,11 +721,11 @@
     "group": "Vegetable",
     "protein": 1.69,
     "fat": 0.302,
-    "calcium": 0.013800000000000002,
-    "calories": 0,
-    "phosphorus": 0.033600000000000005,
-    "moisture": 0,
-    "highProteinFatScore": 3.83
+    "calcium": 13.8,
+    "kcals": 41.0,
+    "phosphorus": 33.6,
+    "moisture": 88.2,
+    "highProteinFatScore": -40.27
   },
   {
     "id": "2644293",
@@ -734,11 +734,11 @@
     "group": "Vegetable",
     "protein": 6.92,
     "fat": 1.3,
-    "calcium": 0.027800000000000002,
-    "calories": 0,
-    "phosphorus": 0.083,
-    "moisture": 0,
-    "highProteinFatScore": 15.79
+    "calcium": 27.8,
+    "kcals": 113,
+    "phosphorus": 83.0,
+    "moisture": 71.6,
+    "highProteinFatScore": -20.01
   },
   {
     "id": "2644284",
@@ -747,11 +747,11 @@
     "group": "Vegetable",
     "protein": 21.2,
     "fat": 2.42,
-    "calcium": 0.0714,
-    "calories": 0,
-    "phosphorus": 0.428,
-    "moisture": 0,
-    "highProteinFatScore": 46.03
+    "calcium": 71.4,
+    "kcals": 346,
+    "phosphorus": 428,
+    "moisture": 11.0,
+    "highProteinFatScore": 40.53
   },
   {
     "id": "2346411",
@@ -760,11 +760,11 @@
     "group": "Fruit",
     "protein": 0.703,
     "fat": 0.306,
-    "calcium": 0.0117,
-    "calories": 0,
-    "phosphorus": 0.013000000000000001,
-    "moisture": 0,
-    "highProteinFatScore": 1.86
+    "calcium": 11.7,
+    "kcals": 57.4,
+    "phosphorus": 13.0,
+    "moisture": 84.2,
+    "highProteinFatScore": -40.23
   },
   {
     "id": "325871",
@@ -773,11 +773,11 @@
     "group": "Other",
     "protein": 9.43,
     "fat": 3.59,
-    "calcium": 0.211,
-    "calories": 1130.0,
-    "phosphorus": 0.113,
-    "moisture": 0,
-    "highProteinFatScore": 24.24
+    "calcium": 211,
+    "kcals": 270.07648183556404,
+    "phosphorus": 113,
+    "moisture": 35.7,
+    "highProteinFatScore": 6.39
   },
   {
     "id": "335240",
@@ -786,11 +786,11 @@
     "group": "Other",
     "protein": 12.3,
     "fat": 3.55,
-    "calcium": 0.163,
-    "calories": 1060.0,
-    "phosphorus": 0.212,
-    "moisture": 0,
-    "highProteinFatScore": 29.93
+    "calcium": 163,
+    "kcals": 253.34608030592733,
+    "phosphorus": 212,
+    "moisture": 38.7,
+    "highProteinFatScore": 10.57
   },
   {
     "id": "747447",
@@ -799,11 +799,11 @@
     "group": "Vegetable",
     "protein": 2.57,
     "fat": 0.34,
-    "calcium": 0.046,
-    "calories": 31.0,
-    "phosphorus": 0.067,
-    "moisture": 0,
-    "highProteinFatScore": 5.65
+    "calcium": 46.0,
+    "kcals": 31.0,
+    "phosphorus": 67.0,
+    "moisture": 90.0,
+    "highProteinFatScore": -39.35
   },
   {
     "id": "2685575",
@@ -812,11 +812,11 @@
     "group": "Vegetable",
     "protein": 3.98,
     "fat": 0.565,
-    "calcium": 0.0386,
-    "calories": 0,
-    "phosphorus": 0.0785,
-    "moisture": 0,
-    "highProteinFatScore": 8.81
+    "calcium": 38.6,
+    "kcals": 48.8,
+    "phosphorus": 78.5,
+    "moisture": 84.6,
+    "highProteinFatScore": -33.49
   },
   {
     "id": "2512378",
@@ -825,11 +825,11 @@
     "group": "Grain",
     "protein": 11.1,
     "fat": 3.04,
-    "calcium": 0.0136,
-    "calories": 0,
-    "phosphorus": 0.374,
-    "moisture": 0,
-    "highProteinFatScore": 26.76
+    "calcium": 13.6,
+    "kcals": 332,
+    "phosphorus": 374,
+    "moisture": 13.0,
+    "highProteinFatScore": 20.26
   },
   {
     "id": "2710820",
@@ -838,11 +838,11 @@
     "group": "Grain",
     "protein": 11.8,
     "fat": 2.42,
-    "calcium": 0.034100000000000005,
-    "calories": 0,
-    "phosphorus": 0.312,
-    "moisture": 0,
-    "highProteinFatScore": 27.23
+    "calcium": 34.1,
+    "kcals": 349,
+    "phosphorus": 312,
+    "moisture": 8.48,
+    "highProteinFatScore": 22.99
   },
   {
     "id": "790508",
@@ -851,11 +851,11 @@
     "group": "Dairy",
     "protein": 0,
     "fat": 82.2,
-    "calcium": 0.021,
-    "calories": 0,
-    "phosphorus": 0.022,
-    "moisture": 0,
-    "highProteinFatScore": 123.3
+    "calcium": 21.0,
+    "kcals": 0,
+    "phosphorus": 22.0,
+    "moisture": 15.8,
+    "highProteinFatScore": 115.4
   },
   {
     "id": "789828",
@@ -864,11 +864,11 @@
     "group": "Dairy",
     "protein": 0,
     "fat": 81.5,
-    "calcium": 0.014,
-    "calories": 0,
-    "phosphorus": 0.019,
-    "moisture": 0,
-    "highProteinFatScore": 122.25
+    "calcium": 14.0,
+    "kcals": 0,
+    "phosphorus": 19.0,
+    "moisture": 17.4,
+    "highProteinFatScore": 113.55
   },
   {
     "id": "2259792",
@@ -877,11 +877,11 @@
     "group": "Dairy",
     "protein": 3.46,
     "fat": 1.08,
-    "calcium": 0.12,
-    "calories": 0,
-    "phosphorus": 0.0922,
-    "moisture": 0,
-    "highProteinFatScore": 8.54
+    "calcium": 120,
+    "kcals": 42.9,
+    "phosphorus": 92.2,
+    "moisture": 89.8,
+    "highProteinFatScore": -36.36
   },
   {
     "id": "2685572",
@@ -890,11 +890,11 @@
     "group": "Vegetable",
     "protein": 1.02,
     "fat": 0.234,
-    "calcium": 0.0619,
-    "calories": 0,
-    "phosphorus": 0.0305,
-    "moisture": 0,
-    "highProteinFatScore": 2.39
+    "calcium": 61.9,
+    "kcals": 17.0,
+    "phosphorus": 30.5,
+    "moisture": 94.5,
+    "highProteinFatScore": -44.86
   },
   {
     "id": "2346407",
@@ -903,11 +903,11 @@
     "group": "Vegetable",
     "protein": 0.961,
     "fat": 0.228,
-    "calcium": 0.0418,
-    "calories": 0,
-    "phosphorus": 0.0269,
-    "moisture": 0,
-    "highProteinFatScore": 2.26
+    "calcium": 41.8,
+    "kcals": 27.9,
+    "phosphorus": 26.9,
+    "moisture": 91.9,
+    "highProteinFatScore": -43.69
   },
   {
     "id": "2346408",
@@ -916,11 +916,11 @@
     "group": "Vegetable",
     "protein": 1.24,
     "fat": 0.214,
-    "calcium": 0.031,
-    "calories": 0,
-    "phosphorus": 0.0358,
-    "moisture": 0,
-    "highProteinFatScore": 2.8
+    "calcium": 31.0,
+    "kcals": 29.9,
+    "phosphorus": 35.8,
+    "moisture": 91.1,
+    "highProteinFatScore": -42.75
   },
   {
     "id": "2258587",
@@ -929,11 +929,11 @@
     "group": "Vegetable",
     "protein": 0.805,
     "fat": 0.138,
-    "calcium": 0.0422,
-    "calories": 0,
-    "phosphorus": 0.0296,
-    "moisture": 0,
-    "highProteinFatScore": 1.82
+    "calcium": 42.2,
+    "kcals": 38.3,
+    "phosphorus": 29.6,
+    "moisture": 89.3,
+    "highProteinFatScore": -42.83
   },
   {
     "id": "746764",
@@ -942,11 +942,11 @@
     "group": "Vegetable",
     "protein": 0.81,
     "fat": 0.47,
-    "calcium": 0.033,
-    "calories": 153,
-    "phosphorus": 0.031,
-    "moisture": 0,
-    "highProteinFatScore": 2.33
+    "calcium": 33.0,
+    "kcals": 36.5678776290631,
+    "phosphorus": 31.0,
+    "moisture": 90.1,
+    "highProteinFatScore": -42.72
   },
   {
     "id": "2258586",
@@ -955,11 +955,11 @@
     "group": "Vegetable",
     "protein": 0.941,
     "fat": 0.351,
-    "calcium": 0.0305,
-    "calories": 0,
-    "phosphorus": 0.039799999999999995,
-    "moisture": 0,
-    "highProteinFatScore": 2.41
+    "calcium": 30.5,
+    "kcals": 45.0,
+    "phosphorus": 39.8,
+    "moisture": 87.7,
+    "highProteinFatScore": -41.44
   },
   {
     "id": "2685573",
@@ -968,11 +968,11 @@
     "group": "Vegetable",
     "protein": 1.64,
     "fat": 0.238,
-    "calcium": 0.020399999999999998,
-    "calories": 0,
-    "phosphorus": 0.039700000000000006,
-    "moisture": 0,
-    "highProteinFatScore": 3.64
+    "calcium": 20.4,
+    "kcals": 22.9,
+    "phosphorus": 39.7,
+    "moisture": 92.7,
+    "highProteinFatScore": -42.71
   },
   {
     "id": "2346405",
@@ -981,11 +981,11 @@
     "group": "Vegetable",
     "protein": 0.492,
     "fat": 0.162,
-    "calcium": 0.0463,
-    "calories": 0,
-    "phosphorus": 0.0216,
-    "moisture": 0,
-    "highProteinFatScore": 1.23
+    "calcium": 46.3,
+    "kcals": 14.8,
+    "phosphorus": 21.6,
+    "moisture": 95.2,
+    "highProteinFatScore": -46.37
   },
   {
     "id": "747429",
@@ -994,11 +994,11 @@
     "group": "Dairy",
     "protein": 17.5,
     "fat": 31.1,
-    "calcium": 0.508,
-    "calories": 1570.0,
-    "phosphorus": 0.38,
-    "moisture": 0,
-    "highProteinFatScore": 81.65
+    "calcium": 508,
+    "kcals": 375.23900573613764,
+    "phosphorus": 380,
+    "moisture": 39.5,
+    "highProteinFatScore": 61.9
   },
   {
     "id": "328637",
@@ -1007,11 +1007,11 @@
     "group": "Dairy",
     "protein": 23.3,
     "fat": 34.0,
-    "calcium": 0.707,
-    "calories": 1710.0,
-    "phosphorus": 0.458,
-    "moisture": 0,
-    "highProteinFatScore": 97.6
+    "calcium": 707,
+    "kcals": 408.69980879541106,
+    "phosphorus": 458,
+    "moisture": 36.6,
+    "highProteinFatScore": 79.3
   },
   {
     "id": "2647443",
@@ -1020,11 +1020,11 @@
     "group": "Dairy",
     "protein": 23.8,
     "fat": 27.2,
-    "calcium": 0.7000000000000001,
-    "calories": 0,
-    "phosphorus": 0.486,
-    "moisture": 0,
-    "highProteinFatScore": 88.4
+    "calcium": 700,
+    "kcals": 352,
+    "phosphorus": 486,
+    "moisture": 40.0,
+    "highProteinFatScore": 68.4
   },
   {
     "id": "328841",
@@ -1033,11 +1033,11 @@
     "group": "Dairy",
     "protein": 11.0,
     "fat": 2.3,
-    "calcium": 0.10300000000000001,
-    "calories": 352,
-    "phosphorus": 0.148,
-    "moisture": 0,
-    "highProteinFatScore": 25.45
+    "calcium": 103,
+    "kcals": 84.13001912045888,
+    "phosphorus": 148,
+    "moisture": 81.1,
+    "highProteinFatScore": -15.1
   },
   {
     "id": "746765",
@@ -1046,11 +1046,11 @@
     "group": "Dairy",
     "protein": 24.5,
     "fat": 24.3,
-    "calcium": 0.661,
-    "calories": 326,
-    "phosphorus": 0.47500000000000003,
-    "moisture": 0,
-    "highProteinFatScore": 85.45
+    "calcium": 661,
+    "kcals": 326,
+    "phosphorus": 475,
+    "moisture": 42.2,
+    "highProteinFatScore": 64.35
   },
   {
     "id": "2259796",
@@ -1059,11 +1059,11 @@
     "group": "Dairy",
     "protein": 19.7,
     "fat": 19.1,
-    "calcium": 0.371,
-    "calories": 0,
-    "phosphorus": 0.328,
-    "moisture": 0,
-    "highProteinFatScore": 68.05
+    "calcium": 371,
+    "kcals": 273,
+    "phosphorus": 328,
+    "moisture": 51.9,
+    "highProteinFatScore": 42.1
   },
   {
     "id": "2647438",
@@ -1072,11 +1072,11 @@
     "group": "Dairy",
     "protein": 22.6,
     "fat": 32.6,
-    "calcium": 0.715,
-    "calories": 0,
-    "phosphorus": 0.47100000000000003,
-    "moisture": 0,
-    "highProteinFatScore": 94.1
+    "calcium": 715,
+    "kcals": 391,
+    "phosphorus": 471,
+    "moisture": 39.2,
+    "highProteinFatScore": 74.5
   },
   {
     "id": "329370",
@@ -1085,11 +1085,11 @@
     "group": "Dairy",
     "protein": 23.7,
     "fat": 20.4,
-    "calcium": 0.6930000000000001,
-    "calories": 298,
-    "phosphorus": 0.533,
-    "moisture": 0,
-    "highProteinFatScore": 78.0
+    "calcium": 693,
+    "kcals": 298,
+    "phosphorus": 533,
+    "moisture": 47.7,
+    "highProteinFatScore": 54.15
   },
   {
     "id": "2647441",
@@ -1098,11 +1098,11 @@
     "group": "Dairy",
     "protein": 22.1,
     "fat": 22.1,
-    "calcium": 0.532,
-    "calories": 0,
-    "phosphorus": 0.38,
-    "moisture": 0,
-    "highProteinFatScore": 77.35
+    "calcium": 532,
+    "kcals": 298,
+    "phosphorus": 380,
+    "moisture": 49.8,
+    "highProteinFatScore": 52.45
   },
   {
     "id": "325036",
@@ -1111,11 +1111,11 @@
     "group": "Dairy",
     "protein": 29.6,
     "fat": 28.0,
-    "calcium": 0.884,
-    "calories": 1760.0,
-    "phosphorus": 0.634,
-    "moisture": 0,
-    "highProteinFatScore": 101.2
+    "calcium": 884,
+    "kcals": 420.6500956022944,
+    "phosphorus": 634,
+    "moisture": 22.8,
+    "highProteinFatScore": 89.8
   },
   {
     "id": "2259795",
@@ -1124,11 +1124,11 @@
     "group": "Dairy",
     "protein": 30.1,
     "fat": 29.5,
-    "calcium": 0.9500000000000001,
-    "calories": 0,
-    "phosphorus": 0.625,
-    "moisture": 0,
-    "highProteinFatScore": 104.45
+    "calcium": 950,
+    "kcals": 405,
+    "phosphorus": 625,
+    "moisture": 30.8,
+    "highProteinFatScore": 89.05
   },
   {
     "id": "2647439",
@@ -1137,11 +1137,11 @@
     "group": "Dairy",
     "protein": 15.6,
     "fat": 23.9,
-    "calcium": 1.5,
-    "calories": 0,
-    "phosphorus": 0.88,
-    "moisture": 0,
-    "highProteinFatScore": 67.05
+    "calcium": 1500.0,
+    "kcals": 308,
+    "phosphorus": 880,
+    "moisture": 44.8,
+    "highProteinFatScore": 44.65
   },
   {
     "id": "325198",
@@ -1150,11 +1150,11 @@
     "group": "Dairy",
     "protein": 18.0,
     "fat": 30.6,
-    "calcium": 0.866,
-    "calories": 366,
-    "phosphorus": 0.54,
-    "moisture": 0,
-    "highProteinFatScore": 81.9
+    "calcium": 866,
+    "kcals": 366,
+    "phosphorus": 540,
+    "moisture": 39.6,
+    "highProteinFatScore": 62.1
   },
   {
     "id": "2647440",
@@ -1163,11 +1163,11 @@
     "group": "Dairy",
     "protein": 23.5,
     "fat": 28.1,
-    "calcium": 0.749,
-    "calories": 0,
-    "phosphorus": 0.494,
-    "moisture": 0,
-    "highProteinFatScore": 89.15
+    "calcium": 749,
+    "kcals": 357,
+    "phosphorus": 494,
+    "moisture": 42.3,
+    "highProteinFatScore": 68.0
   },
   {
     "id": "2647442",
@@ -1176,11 +1176,11 @@
     "group": "Dairy",
     "protein": 18.9,
     "fat": 23.4,
-    "calcium": 0.602,
-    "calories": 0,
-    "phosphorus": 0.39,
-    "moisture": 0,
-    "highProteinFatScore": 72.9
+    "calcium": 602,
+    "kcals": 297,
+    "phosphorus": 390,
+    "moisture": 51.4,
+    "highProteinFatScore": 47.2
   },
   {
     "id": "746766",
@@ -1189,11 +1189,11 @@
     "group": "Dairy",
     "protein": 7.81,
     "fat": 11.0,
-    "calcium": 0.224,
-    "calories": 157,
-    "phosphorus": 0.162,
-    "moisture": 0,
-    "highProteinFatScore": 32.12
+    "calcium": 224,
+    "kcals": 157,
+    "phosphorus": 162,
+    "moisture": 72.9,
+    "highProteinFatScore": -4.33
   },
   {
     "id": "746767",
@@ -1202,11 +1202,11 @@
     "group": "Dairy",
     "protein": 27.0,
     "fat": 31.0,
-    "calcium": 0.89,
-    "calories": 1640.0,
-    "phosphorus": 0.5740000000000001,
-    "moisture": 0,
-    "highProteinFatScore": 100.5
+    "calcium": 890,
+    "kcals": 391.96940726577435,
+    "phosphorus": 574,
+    "moisture": 37.6,
+    "highProteinFatScore": 81.7
   },
   {
     "id": "2346399",
@@ -1215,11 +1215,11 @@
     "group": "Fruit",
     "protein": 1.04,
     "fat": 0.192,
-    "calcium": 0.0123,
-    "calories": 0,
-    "phosphorus": 0.0232,
-    "moisture": 0,
-    "highProteinFatScore": 2.37
+    "calcium": 12.3,
+    "kcals": 63.3,
+    "phosphorus": 23.2,
+    "moisture": 82.2,
+    "highProteinFatScore": -38.73
   },
   {
     "id": "2710819",
@@ -1228,11 +1228,11 @@
     "group": "Grain",
     "protein": 17.0,
     "fat": 32.9,
-    "calcium": 0.595,
-    "calories": 0,
-    "phosphorus": 0.6910000000000001,
-    "moisture": 0,
-    "highProteinFatScore": 83.35
+    "calcium": 595,
+    "kcals": 490,
+    "phosphorus": 691,
+    "moisture": 7.45,
+    "highProteinFatScore": 79.62
   },
   {
     "id": "2646170",
@@ -1241,11 +1241,11 @@
     "group": "Meat",
     "protein": 22.5,
     "fat": 1.93,
-    "calcium": 0.00394,
-    "calories": 0,
-    "phosphorus": 0.215,
-    "moisture": 0,
-    "highProteinFatScore": 47.9
+    "calcium": 3.94,
+    "kcals": 112,
+    "phosphorus": 215,
+    "moisture": 74.8,
+    "highProteinFatScore": 10.5
   },
   {
     "id": "331960",
@@ -1254,11 +1254,11 @@
     "group": "Meat",
     "protein": 32.1,
     "fat": 3.24,
-    "calcium": 0.006,
-    "calories": 695,
-    "phosphorus": 0.241,
-    "moisture": 0,
-    "highProteinFatScore": 69.06
+    "calcium": 6.0,
+    "kcals": 166.10898661567876,
+    "phosphorus": 241,
+    "moisture": 65.3,
+    "highProteinFatScore": 36.41
   },
   {
     "id": "331897",
@@ -1267,11 +1267,11 @@
     "group": "Meat",
     "protein": 23.9,
     "fat": 5.95,
-    "calcium": 0.012,
-    "calories": 156,
-    "phosphorus": 0.184,
-    "moisture": 0,
-    "highProteinFatScore": 56.72
+    "calcium": 12.0,
+    "kcals": 156,
+    "phosphorus": 184,
+    "moisture": 69.9,
+    "highProteinFatScore": 21.77
   },
   {
     "id": "2514746",
@@ -1280,11 +1280,11 @@
     "group": "Meat",
     "protein": 17.9,
     "fat": 7.16,
-    "calcium": 0.0058200000000000005,
-    "calories": 0,
-    "phosphorus": 0.166,
-    "moisture": 0,
-    "highProteinFatScore": 46.54
+    "calcium": 5.82,
+    "kcals": 138,
+    "phosphorus": 166,
+    "moisture": 74.7,
+    "highProteinFatScore": 9.19
   },
   {
     "id": "2646171",
@@ -1293,11 +1293,11 @@
     "group": "Meat",
     "protein": 18.6,
     "fat": 7.92,
-    "calcium": 0.0056500000000000005,
-    "calories": 0,
-    "phosphorus": 0.178,
-    "moisture": 0,
-    "highProteinFatScore": 49.08
+    "calcium": 5.65,
+    "kcals": 149,
+    "phosphorus": 178,
+    "moisture": 72.9,
+    "highProteinFatScore": 12.63
   },
   {
     "id": "2644288",
@@ -1306,11 +1306,11 @@
     "group": "Vegetable",
     "protein": 7.02,
     "fat": 3.1,
-    "calcium": 0.0405,
-    "calories": 0,
-    "phosphorus": 0.08650000000000001,
-    "moisture": 0,
-    "highProteinFatScore": 18.69
+    "calcium": 40.5,
+    "kcals": 133,
+    "phosphorus": 86.5,
+    "moisture": 68.6,
+    "highProteinFatScore": -15.61
   },
   {
     "id": "2644282",
@@ -1319,11 +1319,11 @@
     "group": "Vegetable",
     "protein": 21.3,
     "fat": 6.27,
-    "calcium": 0.111,
-    "calories": 0,
-    "phosphorus": 0.353,
-    "moisture": 0,
-    "highProteinFatScore": 52.01
+    "calcium": 111,
+    "kcals": 372,
+    "phosphorus": 353,
+    "moisture": 8.77,
+    "highProteinFatScore": 47.62
   },
   {
     "id": "2685574",
@@ -1332,11 +1332,11 @@
     "group": "Vegetable",
     "protein": 2.97,
     "fat": 0.77,
-    "calcium": 0.276,
-    "calories": 0,
-    "phosphorus": 0.045,
-    "moisture": 0,
-    "highProteinFatScore": 7.1
+    "calcium": 276,
+    "kcals": 38.8,
+    "phosphorus": 45.0,
+    "moisture": 87.5,
+    "highProteinFatScore": -36.66
   },
   {
     "id": "333008",
@@ -1345,11 +1345,11 @@
     "group": "Other",
     "protein": 5.79,
     "fat": 14.3,
-    "calcium": 0.029,
-    "calories": 1800.0,
-    "phosphorus": 0.111,
-    "moisture": 0,
-    "highProteinFatScore": 33.03
+    "calcium": 29.0,
+    "kcals": 430.2103250478011,
+    "phosphorus": 111,
+    "moisture": 8.85,
+    "highProteinFatScore": 28.61
   },
   {
     "id": "2710835",
@@ -1358,11 +1358,11 @@
     "group": "Grain",
     "protein": 7.56,
     "fat": 4.34,
-    "calcium": 0.112,
-    "calories": 0,
-    "phosphorus": 0.241,
-    "moisture": 0,
-    "highProteinFatScore": 21.63
+    "calcium": 112,
+    "kcals": 366,
+    "phosphorus": 241,
+    "moisture": 10.1,
+    "highProteinFatScore": 16.58
   },
   {
     "id": "2710826",
@@ -1371,11 +1371,11 @@
     "group": "Vegetable",
     "protein": 2.79,
     "fat": 1.63,
-    "calcium": 0.000656,
-    "calories": 0,
-    "phosphorus": 0.0755,
-    "moisture": 0,
-    "highProteinFatScore": 8.03
+    "calcium": 0.656,
+    "kcals": 72.9,
+    "phosphorus": 75.5,
+    "moisture": 80.2,
+    "highProteinFatScore": -32.08
   },
   {
     "id": "2346384",
@@ -1384,24 +1384,24 @@
     "group": "Dairy",
     "protein": 11.6,
     "fat": 4.22,
-    "calcium": 0.0883,
-    "calories": 0,
-    "phosphorus": 0.154,
-    "moisture": 0,
-    "highProteinFatScore": 29.53
+    "calcium": 88.3,
+    "kcals": 105,
+    "phosphorus": 154,
+    "moisture": 78.1,
+    "highProteinFatScore": -9.52
   },
   {
     "id": "2003594",
     "label": "Cranberry juice, not fortified, from concentrate, shelf stable",
     "category": "Fruits and Fruit Juices",
     "group": "Fruit",
-    "protein": 0,
+    "protein": 0.0,
     "fat": 0.338,
-    "calcium": 0.00664,
-    "calories": 0,
-    "phosphorus": 0.0033,
-    "moisture": 0,
-    "highProteinFatScore": 0.51
+    "calcium": 6.64,
+    "kcals": 31.3,
+    "phosphorus": 3.3,
+    "moisture": 92.3,
+    "highProteinFatScore": -45.64
   },
   {
     "id": "2346385",
@@ -1410,11 +1410,11 @@
     "group": "Dairy",
     "protein": 5.79,
     "fat": 33.5,
-    "calcium": 0.09709999999999999,
-    "calories": 0,
-    "phosphorus": 0.108,
-    "moisture": 0,
-    "highProteinFatScore": 61.83
+    "calcium": 97.1,
+    "kcals": 337,
+    "phosphorus": 108,
+    "moisture": 54.7,
+    "highProteinFatScore": 34.48
   },
   {
     "id": "2346386",
@@ -1423,11 +1423,11 @@
     "group": "Dairy",
     "protein": 2.02,
     "fat": 35.6,
-    "calcium": 0.061200000000000004,
-    "calories": 0,
-    "phosphorus": 0.057,
-    "moisture": 0,
-    "highProteinFatScore": 57.44
+    "calcium": 61.2,
+    "kcals": 336,
+    "phosphorus": 57.0,
+    "moisture": 58.1,
+    "highProteinFatScore": 28.39
   },
   {
     "id": "2346387",
@@ -1436,11 +1436,11 @@
     "group": "Dairy",
     "protein": 3.07,
     "fat": 18.0,
-    "calcium": 0.107,
-    "calories": 0,
-    "phosphorus": 0.10200000000000001,
-    "moisture": 0,
-    "highProteinFatScore": 33.14
+    "calcium": 107,
+    "kcals": 193,
+    "phosphorus": 102,
+    "moisture": 72.6,
+    "highProteinFatScore": -3.16
   },
   {
     "id": "2684446",
@@ -1449,11 +1449,11 @@
     "group": "Seafood",
     "protein": 18.6,
     "fat": 0.808,
-    "calcium": 0.111,
-    "calories": 0,
-    "phosphorus": 0.278,
-    "moisture": 0,
-    "highProteinFatScore": 38.41
+    "calcium": 111,
+    "kcals": 86.0,
+    "phosphorus": 278,
+    "moisture": 78.9,
+    "highProteinFatScore": -1.04
   },
   {
     "id": "2684443",
@@ -1462,11 +1462,11 @@
     "group": "Seafood",
     "protein": 15.6,
     "fat": 0.801,
-    "calcium": 0.06459999999999999,
-    "calories": 0,
-    "phosphorus": 0.191,
-    "moisture": 0,
-    "highProteinFatScore": 32.4
+    "calcium": 64.6,
+    "kcals": 75.7,
+    "phosphorus": 191,
+    "moisture": 81.3,
+    "highProteinFatScore": -8.25
   },
   {
     "id": "2346406",
@@ -1475,11 +1475,11 @@
     "group": "Vegetable",
     "protein": 0.625,
     "fat": 0.178,
-    "calcium": 0.016300000000000002,
-    "calories": 0,
-    "phosphorus": 0.0232,
-    "moisture": 0,
-    "highProteinFatScore": 1.52
+    "calcium": 16.3,
+    "kcals": 13.9,
+    "phosphorus": 23.2,
+    "moisture": 95.9,
+    "highProteinFatScore": -46.43
   },
   {
     "id": "323793",
@@ -1488,11 +1488,11 @@
     "group": "Dairy",
     "protein": 79.9,
     "fat": 0.65,
-    "calcium": 0.10400000000000001,
-    "calories": 376,
-    "phosphorus": 0.107,
-    "moisture": 0,
-    "highProteinFatScore": 160.78
+    "calcium": 104,
+    "kcals": 376,
+    "phosphorus": 107,
+    "moisture": 7.98,
+    "highProteinFatScore": 156.78
   },
   {
     "id": "323697",
@@ -1501,11 +1501,11 @@
     "group": "Dairy",
     "protein": 10.1,
     "fat": 0.16,
-    "calcium": 0.009000000000000001,
-    "calories": 201,
+    "calcium": 9.0,
+    "kcals": 48.040152963671126,
     "phosphorus": 0.0,
-    "moisture": 0,
-    "highProteinFatScore": 20.44
+    "moisture": 88.3,
+    "highProteinFatScore": -23.71
   },
   {
     "id": "329490",
@@ -1514,11 +1514,11 @@
     "group": "Dairy",
     "protein": 48.1,
     "fat": 39.8,
-    "calcium": 0.22,
-    "calories": 575,
-    "phosphorus": 0.77,
-    "moisture": 0,
-    "highProteinFatScore": 155.9
+    "calcium": 220,
+    "kcals": 575,
+    "phosphorus": 770,
+    "moisture": 4.07,
+    "highProteinFatScore": 153.87
   },
   {
     "id": "323604",
@@ -1527,11 +1527,11 @@
     "group": "Dairy",
     "protein": 12.3,
     "fat": 10.3,
-    "calcium": 0.055,
-    "calories": 150,
-    "phosphorus": 0.189,
-    "moisture": 0,
-    "highProteinFatScore": 40.05
+    "calcium": 55.0,
+    "kcals": 150,
+    "phosphorus": 189,
+    "moisture": 75.4,
+    "highProteinFatScore": 2.35
   },
   {
     "id": "329716",
@@ -1540,11 +1540,11 @@
     "group": "Dairy",
     "protein": 34.2,
     "fat": 55.5,
-    "calcium": 0.27,
-    "calories": 2740.0,
-    "phosphorus": 0.982,
-    "moisture": 0,
-    "highProteinFatScore": 151.65
+    "calcium": 270,
+    "kcals": 654.8757170172083,
+    "phosphorus": 982,
+    "moisture": 3.64,
+    "highProteinFatScore": 149.83
   },
   {
     "id": "329596",
@@ -1553,11 +1553,11 @@
     "group": "Dairy",
     "protein": 15.6,
     "fat": 25.1,
-    "calcium": 0.11900000000000001,
-    "calories": 1240.0,
-    "phosphorus": 0.443,
-    "moisture": 0,
-    "highProteinFatScore": 68.85
+    "calcium": 119,
+    "kcals": 296.36711281070745,
+    "phosphorus": 443,
+    "moisture": 56.1,
+    "highProteinFatScore": 40.8
   },
   {
     "id": "2685577",
@@ -1566,11 +1566,11 @@
     "group": "Vegetable",
     "protein": 0.852,
     "fat": 0.12,
-    "calcium": 0.0111,
-    "calories": 0,
-    "phosphorus": 0.0228,
-    "moisture": 0,
-    "highProteinFatScore": 1.88
+    "calcium": 11.1,
+    "kcals": 22.4,
+    "phosphorus": 22.8,
+    "moisture": 93.1,
+    "highProteinFatScore": -44.67
   },
   {
     "id": "747997",
@@ -1578,12 +1578,12 @@
     "category": "Dairy and Egg Products",
     "group": "Dairy",
     "protein": 10.7,
-    "fat": 0,
+    "fat": 0.0,
     "calcium": 0,
-    "calories": 55.0,
+    "kcals": 55.0,
     "phosphorus": 0,
-    "moisture": 0,
-    "highProteinFatScore": 21.4
+    "moisture": 86.3,
+    "highProteinFatScore": -21.75
   },
   {
     "id": "748967",
@@ -1592,11 +1592,11 @@
     "group": "Dairy",
     "protein": 12.4,
     "fat": 9.96,
-    "calcium": 0.048,
-    "calories": 617,
-    "phosphorus": 0.184,
-    "moisture": 0,
-    "highProteinFatScore": 39.74
+    "calcium": 48.0,
+    "kcals": 147.46653919694072,
+    "phosphorus": 184,
+    "moisture": 75.8,
+    "highProteinFatScore": 1.84
   },
   {
     "id": "748236",
@@ -1606,10 +1606,10 @@
     "protein": 16.2,
     "fat": 28.8,
     "calcium": 0,
-    "calories": 1400.0,
+    "kcals": 334.6080305927342,
     "phosphorus": 0,
-    "moisture": 0,
-    "highProteinFatScore": 75.6
+    "moisture": 52.1,
+    "highProteinFatScore": 49.55
   },
   {
     "id": "2710827",
@@ -1618,11 +1618,11 @@
     "group": "Grain",
     "protein": 15.1,
     "fat": 3.81,
-    "calcium": 0.0414,
-    "calories": 0,
-    "phosphorus": 0.436,
-    "moisture": 0,
-    "highProteinFatScore": 35.91
+    "calcium": 41.4,
+    "kcals": 346,
+    "phosphorus": 436,
+    "moisture": 10.5,
+    "highProteinFatScore": 30.66
   },
   {
     "id": "2710828",
@@ -1631,11 +1631,11 @@
     "group": "Grain",
     "protein": 12.6,
     "fat": 3.1,
-    "calcium": 0.0259,
-    "calories": 0,
-    "phosphorus": 0.368,
-    "moisture": 0,
-    "highProteinFatScore": 29.85
+    "calcium": 25.9,
+    "kcals": 344,
+    "phosphorus": 368,
+    "moisture": 10.5,
+    "highProteinFatScore": 24.6
   },
   {
     "id": "746768",
@@ -1644,11 +1644,11 @@
     "group": "Fruit",
     "protein": 3.3,
     "fat": 0.92,
-    "calcium": 0.162,
-    "calories": 249,
-    "phosphorus": 0.067,
-    "moisture": 0,
-    "highProteinFatScore": 7.98
+    "calcium": 162,
+    "kcals": 249,
+    "phosphorus": 67.0,
+    "moisture": 30.0,
+    "highProteinFatScore": -7.02
   },
   {
     "id": "2684445",
@@ -1657,11 +1657,11 @@
     "group": "Seafood",
     "protein": 16.5,
     "fat": 7.31,
-    "calcium": 0.0078,
-    "calories": 0,
-    "phosphorus": 0.166,
-    "moisture": 0,
-    "highProteinFatScore": 43.97
+    "calcium": 7.8,
+    "kcals": 134,
+    "phosphorus": 166,
+    "moisture": 75.9,
+    "highProteinFatScore": 6.02
   },
   {
     "id": "2684444",
@@ -1670,11 +1670,11 @@
     "group": "Seafood",
     "protein": 16.1,
     "fat": 0.668,
-    "calcium": 0.00659,
-    "calories": 0,
-    "phosphorus": 0.224,
-    "moisture": 0,
-    "highProteinFatScore": 33.2
+    "calcium": 6.59,
+    "kcals": 70.5,
+    "phosphorus": 224,
+    "moisture": 82.9,
+    "highProteinFatScore": -8.25
   },
   {
     "id": "333374",
@@ -1683,11 +1683,11 @@
     "group": "Seafood",
     "protein": 16.3,
     "fat": 0.45,
-    "calcium": 0.011,
-    "calories": 308,
-    "phosphorus": 0.227,
-    "moisture": 0,
-    "highProteinFatScore": 33.27
+    "calcium": 11.0,
+    "kcals": 73.61376673040152,
+    "phosphorus": 227,
+    "moisture": 83.4,
+    "highProteinFatScore": -8.43
   },
   {
     "id": "333476",
@@ -1696,11 +1696,11 @@
     "group": "Seafood",
     "protein": 12.3,
     "fat": 0.41,
-    "calcium": 0.015,
-    "calories": 235,
-    "phosphorus": 0.28400000000000003,
-    "moisture": 0,
-    "highProteinFatScore": 25.21
+    "calcium": 15.0,
+    "kcals": 56.16634799235182,
+    "phosphorus": 284,
+    "moisture": 86.7,
+    "highProteinFatScore": -18.14
   },
   {
     "id": "2684441",
@@ -1709,11 +1709,11 @@
     "group": "Seafood",
     "protein": 20.3,
     "fat": 13.1,
-    "calcium": 0.00942,
-    "calories": 0,
-    "phosphorus": 0.23,
-    "moisture": 0,
-    "highProteinFatScore": 60.25
+    "calcium": 9.42,
+    "kcals": 203,
+    "phosphorus": 230,
+    "moisture": 65.8,
+    "highProteinFatScore": 27.35
   },
   {
     "id": "2684440",
@@ -1722,11 +1722,11 @@
     "group": "Seafood",
     "protein": 22.3,
     "fat": 4.94,
-    "calcium": 0.0148,
-    "calories": 0,
-    "phosphorus": 0.226,
-    "moisture": 0,
-    "highProteinFatScore": 52.01
+    "calcium": 14.8,
+    "kcals": 136,
+    "phosphorus": 226,
+    "moisture": 72.5,
+    "highProteinFatScore": 15.76
   },
   {
     "id": "2684442",
@@ -1735,11 +1735,11 @@
     "group": "Seafood",
     "protein": 19.0,
     "fat": 2.48,
-    "calcium": 0.00863,
-    "calories": 0,
-    "phosphorus": 0.159,
-    "moisture": 0,
-    "highProteinFatScore": 41.72
+    "calcium": 8.63,
+    "kcals": 100,
+    "phosphorus": 159,
+    "moisture": 78.3,
+    "highProteinFatScore": 2.57
   },
   {
     "id": "334194",
@@ -1748,11 +1748,11 @@
     "group": "Seafood",
     "protein": 19.0,
     "fat": 0.94,
-    "calcium": 0.018000000000000002,
-    "calories": 376,
-    "phosphorus": 0.137,
-    "moisture": 0,
-    "highProteinFatScore": 39.41
+    "calcium": 18.0,
+    "kcals": 89.8661567877629,
+    "phosphorus": 137,
+    "moisture": 79.0,
+    "highProteinFatScore": -0.09
   },
   {
     "id": "2262075",
@@ -1761,11 +1761,11 @@
     "group": "Nuts/Seeds",
     "protein": 18.0,
     "fat": 37.3,
-    "calcium": 0.23,
-    "calories": 0,
-    "phosphorus": 0.556,
-    "moisture": 0,
-    "highProteinFatScore": 91.95
+    "calcium": 230,
+    "kcals": 514,
+    "phosphorus": 556,
+    "moisture": 6.8,
+    "highProteinFatScore": 88.55
   },
   {
     "id": "2003586",
@@ -1774,11 +1774,11 @@
     "group": "Grain",
     "protein": 11.4,
     "fat": 1.52,
-    "calcium": 0.0187,
-    "calories": 0,
-    "phosphorus": 0.106,
-    "moisture": 0,
-    "highProteinFatScore": 25.08
+    "calcium": 18.7,
+    "kcals": 366,
+    "phosphorus": 106,
+    "moisture": 12.2,
+    "highProteinFatScore": 18.98
   },
   {
     "id": "2261420",
@@ -1787,11 +1787,11 @@
     "group": "Nuts/Seeds",
     "protein": 26.2,
     "fat": 50.2,
-    "calcium": 0.232,
-    "calories": 0,
-    "phosphorus": 0.512,
-    "moisture": 0,
-    "highProteinFatScore": 127.7
+    "calcium": 232,
+    "kcals": 578,
+    "phosphorus": 512,
+    "moisture": 4.32,
+    "highProteinFatScore": 125.54
   },
   {
     "id": "2512371",
@@ -1800,11 +1800,11 @@
     "group": "Grain",
     "protein": 13.2,
     "fat": 6.24,
-    "calcium": 0.135,
-    "calories": 0,
-    "phosphorus": 0.425,
-    "moisture": 0,
-    "highProteinFatScore": 35.76
+    "calcium": 135,
+    "kcals": 378,
+    "phosphorus": 425,
+    "moisture": 9.49,
+    "highProteinFatScore": 31.01
   },
   {
     "id": "2512376",
@@ -1813,11 +1813,11 @@
     "group": "Grain",
     "protein": 8.72,
     "fat": 2.45,
-    "calcium": 0.0356,
-    "calories": 0,
-    "phosphorus": 0.234,
-    "moisture": 0,
-    "highProteinFatScore": 21.12
+    "calcium": 35.6,
+    "kcals": 357,
+    "phosphorus": 234,
+    "moisture": 9.9,
+    "highProteinFatScore": 16.17
   },
   {
     "id": "790146",
@@ -1826,11 +1826,11 @@
     "group": "Grain",
     "protein": 14.3,
     "fat": 1.65,
-    "calcium": 0.019,
-    "calories": 1520.0,
-    "phosphorus": 0.124,
-    "moisture": 0,
-    "highProteinFatScore": 31.08
+    "calcium": 19.0,
+    "kcals": 363.2887189292543,
+    "phosphorus": 124,
+    "moisture": 10.7,
+    "highProteinFatScore": 25.73
   },
   {
     "id": "2512374",
@@ -1839,11 +1839,11 @@
     "group": "Grain",
     "protein": 8.88,
     "fat": 2.48,
-    "calcium": 0.030600000000000002,
-    "calories": 0,
-    "phosphorus": 0.28200000000000003,
-    "moisture": 0,
-    "highProteinFatScore": 21.48
+    "calcium": 30.6,
+    "kcals": 334,
+    "phosphorus": 282,
+    "moisture": 12.0,
+    "highProteinFatScore": 15.48
   },
   {
     "id": "2512377",
@@ -1852,11 +1852,11 @@
     "group": "Vegetable",
     "protein": 0.918,
     "fat": 0.494,
-    "calcium": 0.0746,
-    "calories": 0,
-    "phosphorus": 0.039200000000000006,
-    "moisture": 0,
-    "highProteinFatScore": 2.58
+    "calcium": 74.6,
+    "kcals": 359,
+    "phosphorus": 39.2,
+    "moisture": 10.6,
+    "highProteinFatScore": -2.72
   },
   {
     "id": "2515377",
@@ -1865,11 +1865,11 @@
     "group": "Nuts/Seeds",
     "protein": 5.29,
     "fat": 4.64,
-    "calcium": 0.055799999999999995,
-    "calories": 0,
-    "phosphorus": 0.134,
-    "moisture": 0,
-    "highProteinFatScore": 17.54
+    "calcium": 55.8,
+    "kcals": 385,
+    "phosphorus": 134,
+    "moisture": 7.33,
+    "highProteinFatScore": 13.88
   },
   {
     "id": "2515382",
@@ -1878,11 +1878,11 @@
     "group": "Nuts/Seeds",
     "protein": 16.1,
     "fat": 15.3,
-    "calcium": 0.036000000000000004,
-    "calories": 0,
-    "phosphorus": 0.507,
-    "moisture": 0,
-    "highProteinFatScore": 55.15
+    "calcium": 36.0,
+    "kcals": 424,
+    "phosphorus": 507,
+    "moisture": 4.69,
+    "highProteinFatScore": 52.81
   },
   {
     "id": "790276",
@@ -1892,10 +1892,10 @@
     "protein": 6.2,
     "fat": 1.74,
     "calcium": 0.0,
-    "calories": 1520.0,
-    "phosphorus": 0.092,
-    "moisture": 0,
-    "highProteinFatScore": 15.01
+    "kcals": 363.2887189292543,
+    "phosphorus": 92.0,
+    "moisture": 10.8,
+    "highProteinFatScore": 9.61
   },
   {
     "id": "2261421",
@@ -1904,11 +1904,11 @@
     "group": "Grain",
     "protein": 13.2,
     "fat": 6.31,
-    "calcium": 0.0428,
-    "calories": 0,
-    "phosphorus": 0.372,
-    "moisture": 0,
-    "highProteinFatScore": 35.86
+    "calcium": 42.8,
+    "kcals": 386,
+    "phosphorus": 372,
+    "moisture": 8.86,
+    "highProteinFatScore": 31.43
   },
   {
     "id": "1104913",
@@ -1917,11 +1917,11 @@
     "group": "Grain",
     "protein": 8.75,
     "fat": 1.64,
-    "calcium": 0.017,
-    "calories": 1500.0,
-    "phosphorus": 0.10200000000000001,
-    "moisture": 0,
-    "highProteinFatScore": 19.96
+    "calcium": 17.0,
+    "kcals": 358.50860420650093,
+    "phosphorus": 102,
+    "moisture": 11.9,
+    "highProteinFatScore": 14.01
   },
   {
     "id": "2261422",
@@ -1930,11 +1930,11 @@
     "group": "Vegetable",
     "protein": 8.11,
     "fat": 0.951,
-    "calcium": 0.0441,
-    "calories": 0,
-    "phosphorus": 0.197,
-    "moisture": 0,
-    "highProteinFatScore": 17.65
+    "calcium": 44.1,
+    "kcals": 353,
+    "phosphorus": 197,
+    "moisture": 8.28,
+    "highProteinFatScore": 13.51
   },
   {
     "id": "2512372",
@@ -1943,11 +1943,11 @@
     "group": "Grain",
     "protein": 11.9,
     "fat": 6.6,
-    "calcium": 0.0376,
-    "calories": 0,
-    "phosphorus": 0.369,
-    "moisture": 0,
-    "highProteinFatScore": 33.7
+    "calcium": 37.6,
+    "kcals": 378,
+    "phosphorus": 369,
+    "moisture": 9.95,
+    "highProteinFatScore": 28.73
   },
   {
     "id": "1104812",
@@ -1956,11 +1956,11 @@
     "group": "Grain",
     "protein": 7.19,
     "fat": 3.85,
-    "calcium": 0.01,
-    "calories": 365,
-    "phosphorus": 0.319,
-    "moisture": 0,
-    "highProteinFatScore": 20.16
+    "calcium": 10.0,
+    "kcals": 365,
+    "phosphorus": 319,
+    "moisture": 12.1,
+    "highProteinFatScore": 14.11
   },
   {
     "id": "1104867",
@@ -1969,11 +1969,11 @@
     "group": "Grain",
     "protein": 6.69,
     "fat": 1.16,
-    "calcium": 0.01,
-    "calories": 1500.0,
-    "phosphorus": 0.063,
-    "moisture": 0,
-    "highProteinFatScore": 15.12
+    "calcium": 10.0,
+    "kcals": 358.50860420650093,
+    "phosphorus": 63.0,
+    "moisture": 11.8,
+    "highProteinFatScore": 9.22
   },
   {
     "id": "790214",
@@ -1982,11 +1982,11 @@
     "group": "Grain",
     "protein": 6.94,
     "fat": 1.3,
-    "calcium": 0.006,
-    "calories": 359,
-    "phosphorus": 0.094,
-    "moisture": 0,
-    "highProteinFatScore": 15.83
+    "calcium": 6.0,
+    "kcals": 359,
+    "phosphorus": 94.0,
+    "moisture": 11.6,
+    "highProteinFatScore": 10.03
   },
   {
     "id": "2512375",
@@ -1995,11 +1995,11 @@
     "group": "Grain",
     "protein": 8.4,
     "fat": 1.91,
-    "calcium": 0.032200000000000006,
-    "calories": 0,
-    "phosphorus": 0.28,
-    "moisture": 0,
-    "highProteinFatScore": 19.66
+    "calcium": 32.2,
+    "kcals": 351,
+    "phosphorus": 280,
+    "moisture": 11.1,
+    "highProteinFatScore": 14.11
   },
   {
     "id": "2003588",
@@ -2008,11 +2008,11 @@
     "group": "Grain",
     "protein": 11.7,
     "fat": 1.6,
-    "calcium": 0.0172,
-    "calories": 0,
-    "phosphorus": 0.13,
-    "moisture": 0,
-    "highProteinFatScore": 25.8
+    "calcium": 17.2,
+    "kcals": 365,
+    "phosphorus": 130,
+    "moisture": 12.2,
+    "highProteinFatScore": 19.7
   },
   {
     "id": "2003589",
@@ -2021,11 +2021,11 @@
     "group": "Grain",
     "protein": 13.3,
     "fat": 1.84,
-    "calcium": 0.0198,
-    "calories": 0,
-    "phosphorus": 0.163,
-    "moisture": 0,
-    "highProteinFatScore": 29.36
+    "calcium": 19.8,
+    "kcals": 366,
+    "phosphorus": 163,
+    "moisture": 12.1,
+    "highProteinFatScore": 23.31
   },
   {
     "id": "2512373",
@@ -2034,11 +2034,11 @@
     "group": "Grain",
     "protein": 8.27,
     "fat": 3.59,
-    "calcium": 0.0114,
-    "calories": 0,
-    "phosphorus": 0.262,
-    "moisture": 0,
-    "highProteinFatScore": 21.92
+    "calcium": 11.4,
+    "kcals": 364,
+    "phosphorus": 262,
+    "moisture": 9.41,
+    "highProteinFatScore": 17.22
   },
   {
     "id": "1104705",
@@ -2047,11 +2047,11 @@
     "group": "Vegetable",
     "protein": 51.1,
     "fat": 3.33,
-    "calcium": 0.338,
-    "calories": 1530.0,
-    "phosphorus": 0.726,
-    "moisture": 0,
-    "highProteinFatScore": 107.2
+    "calcium": 338,
+    "kcals": 365.67877629063094,
+    "phosphorus": 726,
+    "moisture": 6.24,
+    "highProteinFatScore": 104.08
   },
   {
     "id": "1104766",
@@ -2060,11 +2060,11 @@
     "group": "Vegetable",
     "protein": 38.6,
     "fat": 20.7,
-    "calcium": 0.258,
-    "calories": 1890.0,
-    "phosphorus": 0.607,
-    "moisture": 0,
-    "highProteinFatScore": 108.25
+    "calcium": 258,
+    "kcals": 451.7208413001912,
+    "phosphorus": 607,
+    "moisture": 7.85,
+    "highProteinFatScore": 104.33
   },
   {
     "id": "2003587",
@@ -2073,11 +2073,11 @@
     "group": "Grain",
     "protein": 14.5,
     "fat": 2.54,
-    "calcium": 0.03,
-    "calories": 0,
-    "phosphorus": 0.362,
-    "moisture": 0,
-    "highProteinFatScore": 32.81
+    "calcium": 30.0,
+    "kcals": 341,
+    "phosphorus": 362,
+    "moisture": 10.7,
+    "highProteinFatScore": 27.46
   },
   {
     "id": "789890",
@@ -2086,11 +2086,11 @@
     "group": "Grain",
     "protein": 10.9,
     "fat": 1.48,
-    "calcium": 0.019,
-    "calories": 366,
-    "phosphorus": 0.108,
-    "moisture": 0,
-    "highProteinFatScore": 24.02
+    "calcium": 19.0,
+    "kcals": 366,
+    "phosphorus": 108,
+    "moisture": 9.83,
+    "highProteinFatScore": 19.11
   },
   {
     "id": "789951",
@@ -2099,11 +2099,11 @@
     "group": "Grain",
     "protein": 13.1,
     "fat": 1.48,
-    "calcium": 0.021,
-    "calories": 358,
-    "phosphorus": 0.115,
-    "moisture": 0,
-    "highProteinFatScore": 28.42
+    "calcium": 21.0,
+    "kcals": 358,
+    "phosphorus": 115,
+    "moisture": 11.7,
+    "highProteinFatScore": 22.57
   },
   {
     "id": "790018",
@@ -2112,11 +2112,11 @@
     "group": "Grain",
     "protein": 12.0,
     "fat": 1.7,
-    "calcium": 0.022,
-    "calories": 1510.0,
-    "phosphorus": 0.134,
-    "moisture": 0,
-    "highProteinFatScore": 26.55
+    "calcium": 22.0,
+    "kcals": 360.89866156787764,
+    "phosphorus": 134,
+    "moisture": 11.1,
+    "highProteinFatScore": 21.0
   },
   {
     "id": "790085",
@@ -2125,11 +2125,11 @@
     "group": "Grain",
     "protein": 15.1,
     "fat": 2.73,
-    "calcium": 0.038,
-    "calories": 1550.0,
-    "phosphorus": 0.352,
-    "moisture": 0,
-    "highProteinFatScore": 34.3
+    "calcium": 38.0,
+    "kcals": 370.4588910133843,
+    "phosphorus": 352,
+    "moisture": 9.44,
+    "highProteinFatScore": 29.58
   },
   {
     "id": "2710829",
@@ -2138,11 +2138,11 @@
     "group": "Grain",
     "protein": 7.17,
     "fat": 1.69,
-    "calcium": 0.0116,
-    "calories": 0,
-    "phosphorus": 0.0932,
-    "moisture": 0,
-    "highProteinFatScore": 16.88
+    "calcium": 11.6,
+    "kcals": 377,
+    "phosphorus": 93.2,
+    "moisture": 9.37,
+    "highProteinFatScore": 12.19
   },
   {
     "id": "323121",
@@ -2151,11 +2151,11 @@
     "group": "Meat",
     "protein": 11.7,
     "fat": 28.0,
-    "calcium": 0.015,
-    "calories": 1310.0,
-    "phosphorus": 0.128,
-    "moisture": 0,
-    "highProteinFatScore": 65.4
+    "calcium": 15.0,
+    "kcals": 313.09751434034416,
+    "phosphorus": 128,
+    "moisture": 54.6,
+    "highProteinFatScore": 38.1
   },
   {
     "id": "1104647",
@@ -2165,10 +2165,10 @@
     "protein": 6.62,
     "fat": 0.38,
     "calcium": 0,
-    "calories": 597,
+    "kcals": 142.68642447418736,
     "phosphorus": 0,
-    "moisture": 0,
-    "highProteinFatScore": 13.81
+    "moisture": 63.1,
+    "highProteinFatScore": -17.74
   },
   {
     "id": "2003592",
@@ -2177,11 +2177,11 @@
     "group": "Fruit",
     "protein": 0.258,
     "fat": 0.288,
-    "calcium": 0.00974,
-    "calories": 0,
-    "phosphorus": 0.012,
-    "moisture": 0,
-    "highProteinFatScore": 0.95
+    "calcium": 9.74,
+    "kcals": 64.5,
+    "phosphorus": 12.0,
+    "moisture": 83.7,
+    "highProteinFatScore": -40.9
   },
   {
     "id": "2003593",
@@ -2190,11 +2190,11 @@
     "group": "Fruit",
     "protein": 0.094,
     "fat": 0.265,
-    "calcium": 0.00732,
-    "calories": 0,
-    "phosphorus": 0.0126,
-    "moisture": 0,
-    "highProteinFatScore": 0.59
+    "calcium": 7.32,
+    "kcals": 64.6,
+    "phosphorus": 12.6,
+    "moisture": 83.7,
+    "highProteinFatScore": -41.26
   },
   {
     "id": "2003595",
@@ -2203,11 +2203,11 @@
     "group": "Fruit",
     "protein": 0.57,
     "fat": 0.267,
-    "calcium": 0.00888,
-    "calories": 0,
-    "phosphorus": 0.0146,
-    "moisture": 0,
-    "highProteinFatScore": 1.54
+    "calcium": 8.88,
+    "kcals": 39.8,
+    "phosphorus": 14.6,
+    "moisture": 89.8,
+    "highProteinFatScore": -43.36
   },
   {
     "id": "325287",
@@ -2216,11 +2216,11 @@
     "group": "Fruit",
     "protein": 0.55,
     "fat": 0.7,
-    "calcium": 0.016,
-    "calories": 37.0,
-    "phosphorus": 0.017,
-    "moisture": 0,
-    "highProteinFatScore": 2.15
+    "calcium": 16.0,
+    "kcals": 37.0,
+    "phosphorus": 17.0,
+    "moisture": 90.9,
+    "highProteinFatScore": -43.3
   },
   {
     "id": "2346413",
@@ -2229,11 +2229,11 @@
     "group": "Fruit",
     "protein": 0.899,
     "fat": 0.232,
-    "calcium": 0.0099,
-    "calories": 0,
-    "phosphorus": 0.022,
-    "moisture": 0,
-    "highProteinFatScore": 2.15
+    "calcium": 9.9,
+    "kcals": 71.9,
+    "phosphorus": 22.0,
+    "moisture": 79.9,
+    "highProteinFatScore": -37.8
   },
   {
     "id": "2346412",
@@ -2242,11 +2242,11 @@
     "group": "Fruit",
     "protein": 0.914,
     "fat": 0.164,
-    "calcium": 0.010199999999999999,
-    "calories": 0,
-    "phosphorus": 0.0249,
-    "moisture": 0,
-    "highProteinFatScore": 2.07
+    "calcium": 10.2,
+    "kcals": 77.2,
+    "phosphorus": 24.9,
+    "moisture": 78.2,
+    "highProteinFatScore": -37.03
   },
   {
     "id": "332397",
@@ -2255,11 +2255,11 @@
     "group": "Meat",
     "protein": 16.7,
     "fat": 3.73,
-    "calcium": 0.005,
-    "calories": 106,
-    "phosphorus": 0.261,
-    "moisture": 0,
-    "highProteinFatScore": 38.99
+    "calcium": 5.0,
+    "kcals": 106,
+    "phosphorus": 261,
+    "moisture": 75.7,
+    "highProteinFatScore": 1.14
   },
   {
     "id": "746952",
@@ -2268,11 +2268,11 @@
     "group": "Other",
     "protein": 19.6,
     "fat": 3.68,
-    "calcium": 0.006,
-    "calories": 507,
-    "phosphorus": 0.246,
-    "moisture": 0,
-    "highProteinFatScore": 44.72
+    "calcium": 6.0,
+    "kcals": 121.17590822179731,
+    "phosphorus": 246,
+    "moisture": 70.7,
+    "highProteinFatScore": 9.37
   },
   {
     "id": "321358",
@@ -2281,11 +2281,11 @@
     "group": "Vegetable",
     "protein": 7.35,
     "fat": 17.1,
-    "calcium": 0.041,
-    "calories": 229,
-    "phosphorus": 0.166,
-    "moisture": 0,
-    "highProteinFatScore": 40.35
+    "calcium": 41.0,
+    "kcals": 229,
+    "phosphorus": 166,
+    "moisture": 58.7,
+    "highProteinFatScore": 11.0
   },
   {
     "id": "326196",
@@ -2294,11 +2294,11 @@
     "group": "Vegetable",
     "protein": 2.94,
     "fat": 1.21,
-    "calcium": 0.15,
-    "calories": 151,
-    "phosphorus": 0.042,
-    "moisture": 0,
-    "highProteinFatScore": 7.7
+    "calcium": 150,
+    "kcals": 36.089866156787764,
+    "phosphorus": 42.0,
+    "moisture": 89.8,
+    "highProteinFatScore": -37.2
   },
   {
     "id": "323505",
@@ -2307,11 +2307,11 @@
     "group": "Vegetable",
     "protein": 2.92,
     "fat": 1.49,
-    "calcium": 0.254,
-    "calories": 35.0,
-    "phosphorus": 0.055,
-    "moisture": 0,
-    "highProteinFatScore": 8.07
+    "calcium": 254,
+    "kcals": 35.0,
+    "phosphorus": 55.0,
+    "moisture": 89.6,
+    "highProteinFatScore": -36.72
   },
   {
     "id": "747693",
@@ -2320,11 +2320,11 @@
     "group": "Vegetable",
     "protein": 1.11,
     "fat": 0.55,
-    "calcium": 0.014,
-    "calories": 488,
-    "phosphorus": 0.025,
-    "moisture": 0,
-    "highProteinFatScore": 3.05
+    "calcium": 14.0,
+    "kcals": 116.63479923518165,
+    "phosphorus": 25.0,
+    "moisture": 68.5,
+    "highProteinFatScore": -31.2
   },
   {
     "id": "2710830",
@@ -2333,11 +2333,11 @@
     "group": "Grain",
     "protein": 14.8,
     "fat": 2.8,
-    "calcium": 0.024100000000000003,
-    "calories": 0,
-    "phosphorus": 0.371,
-    "moisture": 0,
-    "highProteinFatScore": 33.8
+    "calcium": 24.1,
+    "kcals": 348,
+    "phosphorus": 371,
+    "moisture": 8.9,
+    "highProteinFatScore": 29.35
   },
   {
     "id": "2710831",
@@ -2346,11 +2346,11 @@
     "group": "Fruit",
     "protein": 1.01,
     "fat": 0.64,
-    "calcium": 0.024399999999999998,
-    "calories": 0,
-    "phosphorus": 0.027600000000000003,
-    "moisture": 0,
-    "highProteinFatScore": 2.98
+    "calcium": 24.4,
+    "kcals": 58.5,
+    "phosphorus": 27.6,
+    "moisture": 83.8,
+    "highProteinFatScore": -38.92
   },
   {
     "id": "327046",
@@ -2359,11 +2359,11 @@
     "group": "Fruit",
     "protein": 1.06,
     "fat": 0.44,
-    "calcium": 0.035,
-    "calories": 241,
-    "phosphorus": 0.034,
-    "moisture": 0,
-    "highProteinFatScore": 2.78
+    "calcium": 35.0,
+    "kcals": 57.60038240917782,
+    "phosphorus": 34.0,
+    "moisture": 83.9,
+    "highProteinFatScore": -39.17
   },
   {
     "id": "2644283",
@@ -2372,11 +2372,11 @@
     "group": "Vegetable",
     "protein": 23.6,
     "fat": 1.92,
-    "calcium": 0.0618,
-    "calories": 0,
-    "phosphorus": 0.374,
-    "moisture": 0,
-    "highProteinFatScore": 50.08
+    "calcium": 61.8,
+    "kcals": 351,
+    "phosphorus": 374,
+    "moisture": 9.45,
+    "highProteinFatScore": 45.36
   },
   {
     "id": "746769",
@@ -2385,11 +2385,11 @@
     "group": "Vegetable",
     "protein": 1.24,
     "fat": 0.26,
-    "calcium": 0.035,
-    "calories": 70.0,
-    "phosphorus": 0.03,
-    "moisture": 0,
-    "highProteinFatScore": 2.87
+    "calcium": 35.0,
+    "kcals": 16.730401529636712,
+    "phosphorus": 30.0,
+    "moisture": 94.7,
+    "highProteinFatScore": -44.48
   },
   {
     "id": "2346388",
@@ -2398,11 +2398,11 @@
     "group": "Vegetable",
     "protein": 0.742,
     "fat": 0.074,
-    "calcium": 0.014199999999999999,
-    "calories": 0,
-    "phosphorus": 0.0192,
-    "moisture": 0,
-    "highProteinFatScore": 1.59
+    "calcium": 14.2,
+    "kcals": 14.5,
+    "phosphorus": 19.2,
+    "moisture": 95.5,
+    "highProteinFatScore": -46.16
   },
   {
     "id": "2346391",
@@ -2411,11 +2411,11 @@
     "group": "Vegetable",
     "protein": 1.09,
     "fat": 0.156,
-    "calcium": 0.039799999999999995,
-    "calories": 0,
-    "phosphorus": 0.026600000000000002,
-    "moisture": 0,
-    "highProteinFatScore": 2.41
+    "calcium": 39.8,
+    "kcals": 18.5,
+    "phosphorus": 26.6,
+    "moisture": 94.0,
+    "highProteinFatScore": -44.59
   },
   {
     "id": "2346390",
@@ -2424,11 +2424,11 @@
     "group": "Vegetable",
     "protein": 0.883,
     "fat": 0.106,
-    "calcium": 0.0426,
-    "calories": 0,
-    "phosphorus": 0.024399999999999998,
-    "moisture": 0,
-    "highProteinFatScore": 1.93
+    "calcium": 42.6,
+    "kcals": 14.7,
+    "phosphorus": 24.4,
+    "moisture": 95.0,
+    "highProteinFatScore": -45.58
   },
   {
     "id": "2346389",
@@ -2437,11 +2437,11 @@
     "group": "Vegetable",
     "protein": 0.977,
     "fat": 0.071,
-    "calcium": 0.027600000000000003,
-    "calories": 0,
-    "phosphorus": 0.0234,
-    "moisture": 0,
-    "highProteinFatScore": 2.06
+    "calcium": 27.6,
+    "kcals": 17.5,
+    "phosphorus": 23.4,
+    "moisture": 94.3,
+    "highProteinFatScore": -45.09
   },
   {
     "id": "2710832",
@@ -2450,11 +2450,11 @@
     "group": "Fruit",
     "protein": 1.04,
     "fat": 0.458,
-    "calcium": 0.044,
-    "calories": 0,
-    "phosphorus": 0.0197,
-    "moisture": 0,
-    "highProteinFatScore": 2.77
+    "calcium": 44.0,
+    "kcals": 55.6,
+    "phosphorus": 19.7,
+    "moisture": 84.6,
+    "highProteinFatScore": -39.53
   },
   {
     "id": "2710834",
@@ -2463,11 +2463,11 @@
     "group": "Fruit",
     "protein": 0.688,
     "fat": 0.681,
-    "calcium": 0.01,
-    "calories": 0,
-    "phosphorus": 0.0177,
-    "moisture": 0,
-    "highProteinFatScore": 2.4
+    "calcium": 10.0,
+    "kcals": 70.6,
+    "phosphorus": 17.7,
+    "moisture": 80.8,
+    "highProteinFatScore": -38.0
   },
   {
     "id": "2710833",
@@ -2476,11 +2476,11 @@
     "group": "Fruit",
     "protein": 0.562,
     "fat": 0.572,
-    "calcium": 0.012400000000000001,
-    "calories": 0,
-    "phosphorus": 0.016399999999999998,
-    "moisture": 0,
-    "highProteinFatScore": 1.98
+    "calcium": 12.4,
+    "kcals": 61.6,
+    "phosphorus": 16.4,
+    "moisture": 83.2,
+    "highProteinFatScore": -39.62
   },
   {
     "id": "746770",
@@ -2489,11 +2489,11 @@
     "group": "Fruit",
     "protein": 0.82,
     "fat": 0.18,
-    "calcium": 0.009000000000000001,
-    "calories": 141,
-    "phosphorus": 0.017,
-    "moisture": 0,
-    "highProteinFatScore": 1.91
+    "calcium": 9.0,
+    "kcals": 33.69980879541109,
+    "phosphorus": 17.0,
+    "moisture": 90.2,
+    "highProteinFatScore": -43.19
   },
   {
     "id": "2710816",
@@ -2502,11 +2502,11 @@
     "group": "Fruit",
     "protein": 0.531,
     "fat": 0.216,
-    "calcium": 0.00658,
-    "calories": 0,
-    "phosphorus": 0.0117,
-    "moisture": 0,
-    "highProteinFatScore": 1.39
+    "calcium": 6.58,
+    "kcals": 32.9,
+    "phosphorus": 11.7,
+    "moisture": 90.6,
+    "highProteinFatScore": -43.91
   },
   {
     "id": "746772",
@@ -2515,11 +2515,11 @@
     "group": "Dairy",
     "protein": 3.38,
     "fat": 0.95,
-    "calcium": 0.126,
-    "calories": 43.0,
-    "phosphorus": 0.10300000000000001,
-    "moisture": 0,
-    "highProteinFatScore": 8.18
+    "calcium": 126,
+    "kcals": 43.0,
+    "phosphorus": 103,
+    "moisture": 89.7,
+    "highProteinFatScore": -36.67
   },
   {
     "id": "746776",
@@ -2528,11 +2528,11 @@
     "group": "Dairy",
     "protein": 3.43,
     "fat": 0.08,
-    "calcium": 0.132,
-    "calories": 144,
-    "phosphorus": 0.107,
-    "moisture": 0,
-    "highProteinFatScore": 6.98
+    "calcium": 132,
+    "kcals": 34.41682600382409,
+    "phosphorus": 107,
+    "moisture": 90.8,
+    "highProteinFatScore": -38.42
   },
   {
     "id": "746778",
@@ -2541,11 +2541,11 @@
     "group": "Dairy",
     "protein": 3.36,
     "fat": 1.9,
-    "calcium": 0.126,
-    "calories": 50.0,
-    "phosphorus": 0.10300000000000001,
-    "moisture": 0,
-    "highProteinFatScore": 9.57
+    "calcium": 126,
+    "kcals": 50.0,
+    "phosphorus": 103,
+    "moisture": 89.1,
+    "highProteinFatScore": -34.98
   },
   {
     "id": "746782",
@@ -2554,11 +2554,11 @@
     "group": "Dairy",
     "protein": 3.27,
     "fat": 3.2,
-    "calcium": 0.123,
-    "calories": 251,
-    "phosphorus": 0.101,
-    "moisture": 0,
-    "highProteinFatScore": 11.34
+    "calcium": 123,
+    "kcals": 59.99043977055449,
+    "phosphorus": 101,
+    "moisture": 88.1,
+    "highProteinFatScore": -32.71
   },
   {
     "id": "2512379",
@@ -2567,11 +2567,11 @@
     "group": "Grain",
     "protein": 10.0,
     "fat": 4.19,
-    "calcium": 0.0091,
-    "calories": 0,
-    "phosphorus": 0.258,
-    "moisture": 0,
-    "highProteinFatScore": 26.29
+    "calcium": 9.1,
+    "kcals": 381,
+    "phosphorus": 258,
+    "moisture": 10.2,
+    "highProteinFatScore": 21.19
   },
   {
     "id": "2003603",
@@ -2580,11 +2580,11 @@
     "group": "Vegetable",
     "protein": 2.18,
     "fat": 0.449,
-    "calcium": 0.000432,
-    "calories": 0,
-    "phosphorus": 0.0859,
-    "moisture": 0,
-    "highProteinFatScore": 5.03
+    "calcium": 0.432,
+    "kcals": 33.0,
+    "phosphorus": 85.9,
+    "moisture": 89.8,
+    "highProteinFatScore": -39.87
   },
   {
     "id": "2003601",
@@ -2593,11 +2593,11 @@
     "group": "Vegetable",
     "protein": 3.09,
     "fat": 0.197,
-    "calcium": 0.0040999999999999995,
-    "calories": 0,
-    "phosphorus": 0.1,
-    "moisture": 0,
-    "highProteinFatScore": 6.48
+    "calcium": 4.1,
+    "kcals": 23.7,
+    "phosphorus": 100,
+    "moisture": 91.8,
+    "highProteinFatScore": -39.42
   },
   {
     "id": "2003600",
@@ -2606,11 +2606,11 @@
     "group": "Vegetable",
     "protein": 2.42,
     "fat": 0.245,
-    "calcium": 0.00143,
-    "calories": 0,
-    "phosphorus": 0.0841,
-    "moisture": 0,
-    "highProteinFatScore": 5.21
+    "calcium": 1.43,
+    "kcals": 36.7,
+    "phosphorus": 84.1,
+    "moisture": 88.3,
+    "highProteinFatScore": -38.94
   },
   {
     "id": "2003599",
@@ -2620,10 +2620,10 @@
     "protein": 2.41,
     "fat": 0.308,
     "calcium": 0.0,
-    "calories": 0,
-    "phosphorus": 0.08990000000000001,
-    "moisture": 0,
-    "highProteinFatScore": 5.28
+    "kcals": 38.5,
+    "phosphorus": 89.9,
+    "moisture": 88.1,
+    "highProteinFatScore": -38.77
   },
   {
     "id": "1999626",
@@ -2633,10 +2633,10 @@
     "protein": 2.5,
     "fat": 0.256,
     "calcium": 0.0,
-    "calories": 0,
-    "phosphorus": 0.094,
-    "moisture": 0,
-    "highProteinFatScore": 5.38
+    "kcals": 35.1,
+    "phosphorus": 94.0,
+    "moisture": 88.6,
+    "highProteinFatScore": -38.92
   },
   {
     "id": "2003602",
@@ -2646,10 +2646,10 @@
     "protein": 2.2,
     "fat": 0.265,
     "calcium": 0.0,
-    "calories": 0,
-    "phosphorus": 0.0724,
-    "moisture": 0,
-    "highProteinFatScore": 4.8
+    "kcals": 31.0,
+    "phosphorus": 72.4,
+    "moisture": 90.4,
+    "highProteinFatScore": -40.4
   },
   {
     "id": "1999627",
@@ -2659,10 +2659,10 @@
     "protein": 2.9,
     "fat": 0.188,
     "calcium": 0.0,
-    "calories": 0,
-    "phosphorus": 0.0862,
-    "moisture": 0,
-    "highProteinFatScore": 6.08
+    "kcals": 33.3,
+    "phosphorus": 86.2,
+    "moisture": 89.2,
+    "highProteinFatScore": -38.52
   },
   {
     "id": "2003604",
@@ -2672,10 +2672,10 @@
     "protein": 3.5,
     "fat": 0.24,
     "calcium": 0.0,
-    "calories": 0,
-    "phosphorus": 0.121,
-    "moisture": 0,
-    "highProteinFatScore": 7.36
+    "kcals": 31.2,
+    "phosphorus": 121,
+    "moisture": 89.6,
+    "highProteinFatScore": -37.44
   },
   {
     "id": "2003598",
@@ -2684,11 +2684,11 @@
     "group": "Vegetable",
     "protein": 2.75,
     "fat": 0.312,
-    "calcium": 0.0032400000000000003,
-    "calories": 0,
-    "phosphorus": 0.08750000000000001,
-    "moisture": 0,
-    "highProteinFatScore": 5.97
+    "calcium": 3.24,
+    "kcals": 26.0,
+    "phosphorus": 87.5,
+    "moisture": 91.5,
+    "highProteinFatScore": -39.78
   },
   {
     "id": "1999628",
@@ -2697,11 +2697,11 @@
     "group": "Vegetable",
     "protein": 2.41,
     "fat": 0.195,
-    "calcium": 0.0007660000000000001,
-    "calories": 0,
-    "phosphorus": 0.07579999999999999,
-    "moisture": 0,
-    "highProteinFatScore": 5.11
+    "calcium": 0.766,
+    "kcals": 36.4,
+    "phosphorus": 75.8,
+    "moisture": 88.6,
+    "highProteinFatScore": -39.19
   },
   {
     "id": "1999629",
@@ -2710,11 +2710,11 @@
     "group": "Vegetable",
     "protein": 2.89,
     "fat": 0.371,
-    "calcium": 0.0054600000000000004,
-    "calories": 0,
-    "phosphorus": 0.093,
-    "moisture": 0,
-    "highProteinFatScore": 6.34
+    "calcium": 5.46,
+    "kcals": 24.9,
+    "phosphorus": 93.0,
+    "moisture": 91.8,
+    "highProteinFatScore": -39.56
   },
   {
     "id": "326698",
@@ -2723,11 +2723,11 @@
     "group": "Spices/Herbs",
     "protein": 4.25,
     "fat": 3.38,
-    "calcium": 0.063,
-    "calories": 61.0,
-    "phosphorus": 0.108,
-    "moisture": 0,
-    "highProteinFatScore": 13.57
+    "calcium": 63.0,
+    "kcals": 61.0,
+    "phosphorus": 108,
+    "moisture": 83.7,
+    "highProteinFatScore": -28.28
   },
   {
     "id": "327357",
@@ -2736,11 +2736,11 @@
     "group": "Fruit",
     "protein": 1.06,
     "fat": 0.28,
-    "calcium": 0.002,
-    "calories": 39.0,
-    "phosphorus": 0.026000000000000002,
-    "moisture": 0,
-    "highProteinFatScore": 2.54
+    "calcium": 2.0,
+    "kcals": 39.0,
+    "phosphorus": 26.0,
+    "moisture": 89.0,
+    "highProteinFatScore": -41.96
   },
   {
     "id": "323294",
@@ -2749,11 +2749,11 @@
     "group": "Nuts/Seeds",
     "protein": 20.4,
     "fat": 57.8,
-    "calcium": 0.273,
-    "calories": 2590.0,
-    "phosphorus": 0.456,
-    "moisture": 0,
-    "highProteinFatScore": 127.5
+    "calcium": 273,
+    "kcals": 619.0248565965583,
+    "phosphorus": 456,
+    "moisture": 2.2,
+    "highProteinFatScore": 126.4
   },
   {
     "id": "2346393",
@@ -2762,11 +2762,11 @@
     "group": "Nuts/Seeds",
     "protein": 21.5,
     "fat": 51.1,
-    "calcium": 0.254,
-    "calories": 0,
-    "phosphorus": 0.503,
-    "moisture": 0,
-    "highProteinFatScore": 119.65
+    "calcium": 254,
+    "kcals": 584,
+    "phosphorus": 503,
+    "moisture": 4.26,
+    "highProteinFatScore": 117.52
   },
   {
     "id": "2515373",
@@ -2775,11 +2775,11 @@
     "group": "Nuts/Seeds",
     "protein": 15.0,
     "fat": 57.4,
-    "calcium": 0.168,
-    "calories": 0,
-    "phosphorus": 0.707,
-    "moisture": 0,
-    "highProteinFatScore": 116.1
+    "calcium": 168,
+    "kcals": 621,
+    "phosphorus": 707,
+    "moisture": 2.26,
+    "highProteinFatScore": 114.97
   },
   {
     "id": "2515374",
@@ -2788,11 +2788,11 @@
     "group": "Nuts/Seeds",
     "protein": 17.4,
     "fat": 38.9,
-    "calcium": 0.042,
-    "calories": 0,
-    "phosphorus": 0.532,
-    "moisture": 0,
-    "highProteinFatScore": 93.15
+    "calcium": 42.0,
+    "kcals": 533,
+    "phosphorus": 532,
+    "moisture": 4.81,
+    "highProteinFatScore": 90.74
   },
   {
     "id": "2515375",
@@ -2801,11 +2801,11 @@
     "group": "Nuts/Seeds",
     "protein": 13.5,
     "fat": 53.5,
-    "calcium": 0.135,
-    "calories": 0,
-    "phosphorus": 0.321,
-    "moisture": 0,
-    "highProteinFatScore": 107.25
+    "calcium": 135,
+    "kcals": 602,
+    "phosphorus": 321,
+    "moisture": 4.31,
+    "highProteinFatScore": 105.09
   },
   {
     "id": "2515378",
@@ -2814,11 +2814,11 @@
     "group": "Nuts/Seeds",
     "protein": 7.79,
     "fat": 64.9,
-    "calcium": 0.052700000000000004,
-    "calories": 0,
-    "phosphorus": 0.20800000000000002,
-    "moisture": 0,
-    "highProteinFatScore": 112.93
+    "calcium": 52.7,
+    "kcals": 669,
+    "phosphorus": 208,
+    "moisture": 1.83,
+    "highProteinFatScore": 112.02
   },
   {
     "id": "2346395",
@@ -2827,11 +2827,11 @@
     "group": "Nuts/Seeds",
     "protein": 9.96,
     "fat": 73.3,
-    "calcium": 0.0548,
-    "calories": 0,
-    "phosphorus": 0.253,
-    "moisture": 0,
-    "highProteinFatScore": 129.87
+    "calcium": 54.8,
+    "kcals": 700,
+    "phosphorus": 253,
+    "moisture": 2.62,
+    "highProteinFatScore": 128.56
   },
   {
     "id": "2346392",
@@ -2840,11 +2840,11 @@
     "group": "Nuts/Seeds",
     "protein": 15.7,
     "fat": 61.3,
-    "calcium": 0.008740000000000001,
-    "calories": 0,
-    "phosphorus": 0.54,
-    "moisture": 0,
-    "highProteinFatScore": 123.35
+    "calcium": 8.74,
+    "kcals": 643,
+    "phosphorus": 540,
+    "moisture": 1.92,
+    "highProteinFatScore": 122.39
   },
   {
     "id": "2515379",
@@ -2853,11 +2853,11 @@
     "group": "Nuts/Seeds",
     "protein": 20.5,
     "fat": 45.0,
-    "calcium": 0.117,
-    "calories": 0,
-    "phosphorus": 0.5,
-    "moisture": 0,
-    "highProteinFatScore": 108.5
+    "calcium": 117,
+    "kcals": 561,
+    "phosphorus": 500,
+    "moisture": 3.95,
+    "highProteinFatScore": 106.53
   },
   {
     "id": "2346394",
@@ -2866,11 +2866,11 @@
     "group": "Nuts/Seeds",
     "protein": 14.6,
     "fat": 69.7,
-    "calcium": 0.0883,
-    "calories": 0,
-    "phosphorus": 0.365,
-    "moisture": 0,
-    "highProteinFatScore": 133.75
+    "calcium": 88.3,
+    "kcals": 679,
+    "phosphorus": 365,
+    "moisture": 3.14,
+    "highProteinFatScore": 132.18
   },
   {
     "id": "2257046",
@@ -2879,11 +2879,11 @@
     "group": "Other",
     "protein": 0.797,
     "fat": 2.75,
-    "calcium": 0.148,
-    "calories": 0,
-    "phosphorus": 0.0892,
-    "moisture": 0,
-    "highProteinFatScore": 5.72
+    "calcium": 148,
+    "kcals": 48.3,
+    "phosphorus": 89.2,
+    "moisture": 90.6,
+    "highProteinFatScore": -39.58
   },
   {
     "id": "2346396",
@@ -2892,11 +2892,11 @@
     "group": "Grain",
     "protein": 13.5,
     "fat": 5.89,
-    "calcium": 0.0455,
-    "calories": 0,
-    "phosphorus": 0.387,
-    "moisture": 0,
-    "highProteinFatScore": 35.84
+    "calcium": 45.5,
+    "kcals": 379,
+    "phosphorus": 387,
+    "moisture": 10.2,
+    "highProteinFatScore": 30.73
   },
   {
     "id": "2346397",
@@ -2905,24 +2905,24 @@
     "group": "Grain",
     "protein": 12.5,
     "fat": 5.8,
-    "calcium": 0.0513,
-    "calories": 0,
-    "phosphorus": 0.417,
-    "moisture": 0,
-    "highProteinFatScore": 33.7
+    "calcium": 51.3,
+    "kcals": 379,
+    "phosphorus": 417,
+    "moisture": 10.1,
+    "highProteinFatScore": 28.65
   },
   {
     "id": "330458",
     "label": "Oil, coconut",
     "category": "Fats and Oils",
     "group": "Oil",
-    "protein": 0,
+    "protein": 0.0,
     "fat": 99.1,
-    "calcium": 0.001,
-    "calories": 833,
+    "calcium": 1.0,
+    "kcals": 833,
     "phosphorus": 0.0,
-    "moisture": 0,
-    "highProteinFatScore": 148.65
+    "moisture": 0.03,
+    "highProteinFatScore": 148.63
   },
   {
     "id": "332791",
@@ -2931,11 +2931,11 @@
     "group": "Fruit",
     "protein": 1.15,
     "fat": 12.9,
-    "calcium": 0.121,
-    "calories": 543,
-    "phosphorus": 0.007,
-    "moisture": 0,
-    "highProteinFatScore": 21.65
+    "calcium": 121,
+    "kcals": 129.78011472275335,
+    "phosphorus": 7.0,
+    "moisture": 76.7,
+    "highProteinFatScore": -16.7
   },
   {
     "id": "324317",
@@ -2944,11 +2944,11 @@
     "group": "Vegetable",
     "protein": 4.52,
     "fat": 14.4,
-    "calcium": 0.028,
-    "calories": 1210.0,
-    "phosphorus": 0.075,
-    "moisture": 0,
-    "highProteinFatScore": 30.64
+    "calcium": 28.0,
+    "kcals": 289.19694072657745,
+    "phosphorus": 75.0,
+    "moisture": 43.4,
+    "highProteinFatScore": 8.94
   },
   {
     "id": "790577",
@@ -2957,11 +2957,11 @@
     "group": "Vegetable",
     "protein": 0.94,
     "fat": 0.1,
-    "calcium": 0.017,
-    "calories": 186,
-    "phosphorus": 0.041,
-    "moisture": 0,
-    "highProteinFatScore": 2.03
+    "calcium": 17.0,
+    "kcals": 44.45506692160612,
+    "phosphorus": 41.0,
+    "moisture": 88.6,
+    "highProteinFatScore": -42.27
   },
   {
     "id": "1104962",
@@ -2970,11 +2970,11 @@
     "group": "Vegetable",
     "protein": 0.89,
     "fat": 0.13,
-    "calcium": 0.021,
-    "calories": 148,
-    "phosphorus": 0.029,
-    "moisture": 0,
-    "highProteinFatScore": 1.98
+    "calcium": 21.0,
+    "kcals": 35.37284894837476,
+    "phosphorus": 29.0,
+    "moisture": 91.3,
+    "highProteinFatScore": -43.67
   },
   {
     "id": "790646",
@@ -2983,11 +2983,11 @@
     "group": "Vegetable",
     "protein": 0.83,
     "fat": 0.05,
-    "calcium": 0.015,
-    "calories": 160,
-    "phosphorus": 0.034,
-    "moisture": 0,
-    "highProteinFatScore": 1.73
+    "calcium": 15.0,
+    "kcals": 38.24091778202677,
+    "phosphorus": 34.0,
+    "moisture": 90.1,
+    "highProteinFatScore": -43.31
   },
   {
     "id": "2003591",
@@ -2996,11 +2996,11 @@
     "group": "Fruit",
     "protein": 0.734,
     "fat": 0.325,
-    "calcium": 0.0128,
-    "calories": 0,
-    "phosphorus": 0.0182,
-    "moisture": 0,
-    "highProteinFatScore": 1.96
+    "calcium": 12.8,
+    "kcals": 45.7,
+    "phosphorus": 18.2,
+    "moisture": 88.2,
+    "highProteinFatScore": -42.14
   },
   {
     "id": "2003597",
@@ -3009,11 +3009,11 @@
     "group": "Fruit",
     "protein": 0.812,
     "fat": 0.356,
-    "calcium": 0.00929,
-    "calories": 0,
-    "phosphorus": 0.019,
-    "moisture": 0,
-    "highProteinFatScore": 2.16
+    "calcium": 9.29,
+    "kcals": 45.0,
+    "phosphorus": 19.0,
+    "moisture": 88.5,
+    "highProteinFatScore": -42.09
   },
   {
     "id": "746771",
@@ -3022,11 +3022,11 @@
     "group": "Fruit",
     "protein": 0.91,
     "fat": 0.15,
-    "calcium": 0.043000000000000003,
-    "calories": 196,
-    "phosphorus": 0.023,
-    "moisture": 0,
-    "highProteinFatScore": 2.04
+    "calcium": 43.0,
+    "kcals": 46.84512428298279,
+    "phosphorus": 23.0,
+    "moisture": 86.7,
+    "highProteinFatScore": -41.3
   },
   {
     "id": "325430",
@@ -3035,11 +3035,11 @@
     "group": "Fruit",
     "protein": 0.91,
     "fat": 0.27,
-    "calcium": 0.004,
-    "calories": 174,
-    "phosphorus": 0.022,
-    "moisture": 0,
-    "highProteinFatScore": 2.23
+    "calcium": 4.0,
+    "kcals": 41.58699808795411,
+    "phosphorus": 22.0,
+    "moisture": 88.3,
+    "highProteinFatScore": -41.92
   },
   {
     "id": "2262072",
@@ -3048,11 +3048,11 @@
     "group": "Vegetable",
     "protein": 24.0,
     "fat": 49.4,
-    "calcium": 0.0498,
-    "calories": 0,
-    "phosphorus": 0.393,
-    "moisture": 0,
-    "highProteinFatScore": 122.1
+    "calcium": 49.8,
+    "kcals": 589,
+    "phosphorus": 393,
+    "moisture": 1.1,
+    "highProteinFatScore": 121.55
   },
   {
     "id": "2515376",
@@ -3061,11 +3061,11 @@
     "group": "Vegetable",
     "protein": 23.2,
     "fat": 43.3,
-    "calcium": 0.049100000000000005,
-    "calories": 0,
-    "phosphorus": 0.38,
-    "moisture": 0,
-    "highProteinFatScore": 111.35
+    "calcium": 49.1,
+    "kcals": 551,
+    "phosphorus": 380,
+    "moisture": 4.82,
+    "highProteinFatScore": 108.94
   },
   {
     "id": "2710836",
@@ -3074,11 +3074,11 @@
     "group": "Fruit",
     "protein": 0.312,
     "fat": 0.371,
-    "calcium": 0.00999,
-    "calories": 0,
-    "phosphorus": 0.0123,
-    "moisture": 0,
-    "highProteinFatScore": 1.18
+    "calcium": 9.99,
+    "kcals": 57.3,
+    "phosphorus": 12.3,
+    "moisture": 84.3,
+    "highProteinFatScore": -40.97
   },
   {
     "id": "746773",
@@ -3087,11 +3087,11 @@
     "group": "Fruit",
     "protein": 0.38,
     "fat": 0.16,
-    "calcium": 0.008,
-    "calories": 57.0,
-    "phosphorus": 0.01,
-    "moisture": 0,
-    "highProteinFatScore": 1.0
+    "calcium": 8.0,
+    "kcals": 57.0,
+    "phosphorus": 10.0,
+    "moisture": 84.1,
+    "highProteinFatScore": -41.05
   },
   {
     "id": "2644291",
@@ -3100,11 +3100,11 @@
     "group": "Vegetable",
     "protein": 4.73,
     "fat": 1.15,
-    "calcium": 0.0282,
-    "calories": 0,
-    "phosphorus": 0.0777,
-    "moisture": 0,
-    "highProteinFatScore": 11.19
+    "calcium": 28.2,
+    "kcals": 77.8,
+    "phosphorus": 77.7,
+    "moisture": 80.5,
+    "highProteinFatScore": -29.06
   },
   {
     "id": "2258588",
@@ -3113,11 +3113,11 @@
     "group": "Vegetable",
     "protein": 0.715,
     "fat": 0.106,
-    "calcium": 0.0075,
-    "calories": 0,
-    "phosphorus": 0.016800000000000002,
-    "moisture": 0,
-    "highProteinFatScore": 1.59
+    "calcium": 7.5,
+    "kcals": 19.7,
+    "phosphorus": 16.8,
+    "moisture": 94.1,
+    "highProteinFatScore": -45.46
   },
   {
     "id": "2258591",
@@ -3126,11 +3126,11 @@
     "group": "Vegetable",
     "protein": 0.882,
     "fat": 0.156,
-    "calcium": 0.004900000000000001,
-    "calories": 0,
-    "phosphorus": 0.026600000000000002,
-    "moisture": 0,
-    "highProteinFatScore": 2.0
+    "calcium": 4.9,
+    "kcals": 27.4,
+    "phosphorus": 26.6,
+    "moisture": 91.9,
+    "highProteinFatScore": -43.95
   },
   {
     "id": "2258590",
@@ -3139,11 +3139,11 @@
     "group": "Vegetable",
     "protein": 0.896,
     "fat": 0.126,
-    "calcium": 0.00636,
-    "calories": 0,
-    "phosphorus": 0.026600000000000002,
-    "moisture": 0,
-    "highProteinFatScore": 1.98
+    "calcium": 6.36,
+    "kcals": 27.0,
+    "phosphorus": 26.6,
+    "moisture": 91.9,
+    "highProteinFatScore": -43.97
   },
   {
     "id": "2258589",
@@ -3152,11 +3152,11 @@
     "group": "Vegetable",
     "protein": 0.819,
     "fat": 0.121,
-    "calcium": 0.006690000000000001,
-    "calories": 0,
-    "phosphorus": 0.024800000000000003,
-    "moisture": 0,
-    "highProteinFatScore": 1.82
+    "calcium": 6.69,
+    "kcals": 26.6,
+    "phosphorus": 24.8,
+    "moisture": 92.1,
+    "highProteinFatScore": -44.23
   },
   {
     "id": "324653",
@@ -3165,11 +3165,11 @@
     "group": "Vegetable",
     "protein": 0.48,
     "fat": 0.43,
-    "calcium": 0.054,
-    "calories": 12.0,
-    "phosphorus": 0.016,
-    "moisture": 0,
-    "highProteinFatScore": 1.6
+    "calcium": 54.0,
+    "kcals": 12.0,
+    "phosphorus": 16.0,
+    "moisture": 94.7,
+    "highProteinFatScore": -45.75
   },
   {
     "id": "2346398",
@@ -3178,11 +3178,11 @@
     "group": "Fruit",
     "protein": 0.461,
     "fat": 0.211,
-    "calcium": 0.0125,
-    "calories": 0,
-    "phosphorus": 0.00542,
-    "moisture": 0,
-    "highProteinFatScore": 1.24
+    "calcium": 12.5,
+    "kcals": 54.0,
+    "phosphorus": 5.42,
+    "moisture": 85.0,
+    "highProteinFatScore": -41.26
   },
   {
     "id": "2710843",
@@ -3191,11 +3191,11 @@
     "group": "Fruit",
     "protein": 1.17,
     "fat": 0.99,
-    "calcium": 0.0039,
-    "calories": 0,
-    "phosphorus": 0.0289,
-    "moisture": 0,
-    "highProteinFatScore": 3.82
+    "calcium": 3.9,
+    "kcals": 117,
+    "phosphorus": 28.9,
+    "moisture": 67.7,
+    "highProteinFatScore": -30.03
   },
   {
     "id": "2710817",
@@ -3204,11 +3204,11 @@
     "group": "Fruit",
     "protein": 1.16,
     "fat": 0.893,
-    "calcium": 0.00382,
-    "calories": 0,
-    "phosphorus": 0.030100000000000002,
-    "moisture": 0,
-    "highProteinFatScore": 3.66
+    "calcium": 3.82,
+    "kcals": 123,
+    "phosphorus": 30.1,
+    "moisture": 66.1,
+    "highProteinFatScore": -29.39
   },
   {
     "id": "2710818",
@@ -3217,11 +3217,11 @@
     "group": "Fruit",
     "protein": 1.23,
     "fat": 0.685,
-    "calcium": 0.00483,
-    "calories": 0,
-    "phosphorus": 0.027899999999999998,
-    "moisture": 0,
-    "highProteinFatScore": 3.49
+    "calcium": 4.83,
+    "kcals": 145,
+    "phosphorus": 27.9,
+    "moisture": 63.6,
+    "highProteinFatScore": -28.31
   },
   {
     "id": "2710837",
@@ -3230,11 +3230,11 @@
     "group": "Fruit",
     "protein": 0.578,
     "fat": 0.282,
-    "calcium": 0.004030000000000001,
-    "calories": 0,
-    "phosphorus": 0.018600000000000002,
-    "moisture": 0,
-    "highProteinFatScore": 1.58
+    "calcium": 4.03,
+    "kcals": 58.7,
+    "phosphorus": 18.6,
+    "moisture": 84.9,
+    "highProteinFatScore": -40.87
   },
   {
     "id": "749420",
@@ -3243,11 +3243,11 @@
     "group": "Other",
     "protein": 40.9,
     "fat": 36.5,
-    "calcium": 0.013000000000000001,
-    "calories": 2090.0,
-    "phosphorus": 0.41500000000000004,
-    "moisture": 0,
-    "highProteinFatScore": 136.55
+    "calcium": 13.0,
+    "kcals": 499.52198852772466,
+    "phosphorus": 415,
+    "moisture": 14.2,
+    "highProteinFatScore": 129.45
   },
   {
     "id": "2514745",
@@ -3256,11 +3256,11 @@
     "group": "Other",
     "protein": 17.8,
     "fat": 17.5,
-    "calcium": 0.005860000000000001,
-    "calories": 0,
-    "phosphorus": 0.17300000000000001,
-    "moisture": 0,
-    "highProteinFatScore": 61.85
+    "calcium": 5.86,
+    "kcals": 233,
+    "phosphorus": 173,
+    "moisture": 63.9,
+    "highProteinFatScore": 29.9
   },
   {
     "id": "2646168",
@@ -3269,11 +3269,11 @@
     "group": "Other",
     "protein": 21.1,
     "fat": 9.47,
-    "calcium": 0.004110000000000001,
-    "calories": 0,
-    "phosphorus": 0.197,
-    "moisture": 0,
-    "highProteinFatScore": 56.41
+    "calcium": 4.11,
+    "kcals": 174,
+    "phosphorus": 197,
+    "moisture": 68.8,
+    "highProteinFatScore": 22.01
   },
   {
     "id": "2646169",
@@ -3282,11 +3282,11 @@
     "group": "Other",
     "protein": 21.6,
     "fat": 3.9,
-    "calcium": 0.00453,
-    "calories": 0,
-    "phosphorus": 0.217,
-    "moisture": 0,
-    "highProteinFatScore": 49.05
+    "calcium": 4.53,
+    "kcals": 125,
+    "phosphorus": 217,
+    "moisture": 73.9,
+    "highProteinFatScore": 12.1
   },
   {
     "id": "2346403",
@@ -3295,11 +3295,11 @@
     "group": "Vegetable",
     "protein": 1.81,
     "fat": 0.264,
-    "calcium": 0.005940000000000001,
-    "calories": 0,
-    "phosphorus": 0.057,
-    "moisture": 0,
-    "highProteinFatScore": 4.02
+    "calcium": 5.94,
+    "kcals": 71.6,
+    "phosphorus": 57.0,
+    "moisture": 81.1,
+    "highProteinFatScore": -36.53
   },
   {
     "id": "2346402",
@@ -3308,11 +3308,11 @@
     "group": "Vegetable",
     "protein": 2.06,
     "fat": 0.248,
-    "calcium": 0.00513,
-    "calories": 0,
-    "phosphorus": 0.055600000000000004,
-    "moisture": 0,
-    "highProteinFatScore": 4.49
+    "calcium": 5.13,
+    "kcals": 73.4,
+    "phosphorus": 55.6,
+    "moisture": 80.5,
+    "highProteinFatScore": -35.76
   },
   {
     "id": "2346401",
@@ -3321,11 +3321,11 @@
     "group": "Vegetable",
     "protein": 2.27,
     "fat": 0.36,
-    "calcium": 0.0078,
-    "calories": 0,
-    "phosphorus": 0.055200000000000006,
-    "moisture": 0,
-    "highProteinFatScore": 5.08
+    "calcium": 7.8,
+    "kcals": 81.0,
+    "phosphorus": 55.2,
+    "moisture": 78.6,
+    "highProteinFatScore": -34.22
   },
   {
     "id": "2346410",
@@ -3334,11 +3334,11 @@
     "group": "Fruit",
     "protein": 1.01,
     "fat": 0.188,
-    "calcium": 0.016399999999999998,
-    "calories": 0,
-    "phosphorus": 0.0275,
-    "moisture": 0,
-    "highProteinFatScore": 2.3
+    "calcium": 16.4,
+    "kcals": 51.4,
+    "phosphorus": 27.5,
+    "moisture": 85.6,
+    "highProteinFatScore": -40.5
   },
   {
     "id": "334536",
@@ -3347,11 +3347,11 @@
     "group": "Other",
     "protein": 3.84,
     "fat": 3.19,
-    "calcium": 0.011,
-    "calories": 729,
-    "phosphorus": 0.044,
-    "moisture": 0,
-    "highProteinFatScore": 12.46
+    "calcium": 11.0,
+    "kcals": 174.23518164435947,
+    "phosphorus": 44.0,
+    "moisture": 59.3,
+    "highProteinFatScore": -17.18
   },
   {
     "id": "746774",
@@ -3360,11 +3360,11 @@
     "group": "Other",
     "protein": 8.88,
     "fat": 13.6,
-    "calcium": 0.046,
-    "calories": 260,
-    "phosphorus": 0.133,
-    "moisture": 0,
-    "highProteinFatScore": 38.16
+    "calcium": 46.0,
+    "kcals": 260,
+    "phosphorus": 133,
+    "moisture": 50.8,
+    "highProteinFatScore": 12.76
   },
   {
     "id": "334720",
@@ -3373,11 +3373,11 @@
     "group": "Other",
     "protein": 5.59,
     "fat": 9.01,
-    "calcium": 0.051000000000000004,
-    "calories": 229,
-    "phosphorus": 0.14400000000000002,
-    "moisture": 0,
-    "highProteinFatScore": 24.7
+    "calcium": 51.0,
+    "kcals": 229,
+    "phosphorus": 144,
+    "moisture": 52.2,
+    "highProteinFatScore": -1.41
   },
   {
     "id": "334628",
@@ -3386,11 +3386,11 @@
     "group": "Other",
     "protein": 7.38,
     "fat": 9.04,
-    "calcium": 0.075,
-    "calories": 174,
-    "phosphorus": 0.12,
-    "moisture": 0,
-    "highProteinFatScore": 28.32
+    "calcium": 75.0,
+    "kcals": 174,
+    "phosphorus": 120,
+    "moisture": 66.0,
+    "highProteinFatScore": -4.68
   },
   {
     "id": "2710825",
@@ -3399,11 +3399,11 @@
     "group": "Grain",
     "protein": 7.57,
     "fat": 3.44,
-    "calcium": 0.014400000000000001,
-    "calories": 0,
-    "phosphorus": 0.307,
-    "moisture": 0,
-    "highProteinFatScore": 20.3
+    "calcium": 14.4,
+    "kcals": 361,
+    "phosphorus": 307,
+    "moisture": 10.5,
+    "highProteinFatScore": 15.05
   },
   {
     "id": "2512380",
@@ -3412,11 +3412,11 @@
     "group": "Grain",
     "protein": 7.25,
     "fat": 3.31,
-    "calcium": 0.008060000000000001,
-    "calories": 0,
-    "phosphorus": 0.303,
-    "moisture": 0,
-    "highProteinFatScore": 19.46
+    "calcium": 8.06,
+    "kcals": 368,
+    "phosphorus": 303,
+    "moisture": 11.5,
+    "highProteinFatScore": 13.71
   },
   {
     "id": "2710838",
@@ -3425,11 +3425,11 @@
     "group": "Grain",
     "protein": 8.56,
     "fat": 3.44,
-    "calcium": 0.00922,
-    "calories": 0,
-    "phosphorus": 0.314,
-    "moisture": 0,
-    "highProteinFatScore": 22.28
+    "calcium": 9.22,
+    "kcals": 360,
+    "phosphorus": 314,
+    "moisture": 10.5,
+    "highProteinFatScore": 17.03
   },
   {
     "id": "2512381",
@@ -3438,11 +3438,11 @@
     "group": "Grain",
     "protein": 7.04,
     "fat": 1.03,
-    "calcium": 0.00446,
-    "calories": 0,
-    "phosphorus": 0.108,
-    "moisture": 0,
-    "highProteinFatScore": 15.62
+    "calcium": 4.46,
+    "kcals": 370,
+    "phosphorus": 108,
+    "moisture": 11.2,
+    "highProteinFatScore": 10.03
   },
   {
     "id": "332282",
@@ -3451,11 +3451,11 @@
     "group": "Other",
     "protein": 1.41,
     "fat": 1.48,
-    "calcium": 0.027,
-    "calories": 186,
-    "phosphorus": 0.034,
-    "moisture": 0,
-    "highProteinFatScore": 5.04
+    "calcium": 27.0,
+    "kcals": 44.45506692160612,
+    "phosphorus": 34.0,
+    "moisture": 87.4,
+    "highProteinFatScore": -38.66
   },
   {
     "id": "746777",
@@ -3464,11 +3464,11 @@
     "group": "Other",
     "protein": 1.44,
     "fat": 0.19,
-    "calcium": 0.028,
-    "calories": 29.0,
-    "phosphorus": 0.032,
-    "moisture": 0,
-    "highProteinFatScore": 3.17
+    "calcium": 28.0,
+    "kcals": 29.0,
+    "phosphorus": 32.0,
+    "moisture": 89.3,
+    "highProteinFatScore": -41.48
   },
   {
     "id": "746780",
@@ -3477,11 +3477,11 @@
     "group": "Meat",
     "protein": 18.2,
     "fat": 26.2,
-    "calcium": 0.012,
-    "calories": 1350.0,
-    "phosphorus": 0.145,
-    "moisture": 0,
-    "highProteinFatScore": 75.7
+    "calcium": 12.0,
+    "kcals": 322.65774378585087,
+    "phosphorus": 145,
+    "moisture": 50.9,
+    "highProteinFatScore": 50.25
   },
   {
     "id": "746779",
@@ -3490,11 +3490,11 @@
     "group": "Meat",
     "protein": 13.3,
     "fat": 28.7,
-    "calcium": 0.035,
-    "calories": 1370.0,
-    "phosphorus": 0.124,
-    "moisture": 0,
-    "highProteinFatScore": 69.65
+    "calcium": 35.0,
+    "kcals": 327.43785850860417,
+    "phosphorus": 124,
+    "moisture": 51.7,
+    "highProteinFatScore": 43.8
   },
   {
     "id": "746781",
@@ -3503,11 +3503,11 @@
     "group": "Meat",
     "protein": 19.3,
     "fat": 28.1,
-    "calcium": 0.037,
-    "calories": 1450.0,
-    "phosphorus": 0.20700000000000002,
-    "moisture": 0,
-    "highProteinFatScore": 80.75
+    "calcium": 37.0,
+    "kcals": 346.5583173996176,
+    "phosphorus": 207,
+    "moisture": 46.3,
+    "highProteinFatScore": 57.6
   },
   {
     "id": "746783",
@@ -3516,11 +3516,11 @@
     "group": "Meat",
     "protein": 16.7,
     "fat": 10.4,
-    "calcium": 0.032,
-    "calories": 169,
-    "phosphorus": 0.178,
-    "moisture": 0,
-    "highProteinFatScore": 49.0
+    "calcium": 32.0,
+    "kcals": 169,
+    "phosphorus": 178,
+    "moisture": 69.6,
+    "highProteinFatScore": 14.2
   },
   {
     "id": "2515380",
@@ -3529,11 +3529,11 @@
     "group": "Nuts/Seeds",
     "protein": 29.9,
     "fat": 40.0,
-    "calcium": 0.0374,
-    "calories": 0,
-    "phosphorus": 1.1500000000000001,
-    "moisture": 0,
-    "highProteinFatScore": 119.8
+    "calcium": 37.4,
+    "kcals": 515,
+    "phosphorus": 1150.0,
+    "moisture": 6.62,
+    "highProteinFatScore": 116.49
   },
   {
     "id": "325524",
@@ -3542,11 +3542,11 @@
     "group": "Nuts/Seeds",
     "protein": 21.0,
     "fat": 56.1,
-    "calcium": 0.078,
-    "calories": 2560.0,
-    "phosphorus": 0.75,
-    "moisture": 0,
-    "highProteinFatScore": 126.15
+    "calcium": 78.0,
+    "kcals": 611.8546845124283,
+    "phosphorus": 750,
+    "moisture": 1.5,
+    "highProteinFatScore": 125.4
   },
   {
     "id": "2515381",
@@ -3555,11 +3555,11 @@
     "group": "Nuts/Seeds",
     "protein": 18.9,
     "fat": 48.4,
-    "calcium": 0.116,
-    "calories": 0,
-    "phosphorus": 0.732,
-    "moisture": 0,
-    "highProteinFatScore": 110.4
+    "calcium": 116,
+    "kcals": 571,
+    "phosphorus": 732,
+    "moisture": 4.87,
+    "highProteinFatScore": 107.96
   },
   {
     "id": "2262073",
@@ -3568,11 +3568,11 @@
     "group": "Nuts/Seeds",
     "protein": 19.7,
     "fat": 62.4,
-    "calcium": 0.116,
-    "calories": 0,
-    "phosphorus": 0.719,
-    "moisture": 0,
-    "highProteinFatScore": 133.0
+    "calcium": 116,
+    "kcals": 648,
+    "phosphorus": 719,
+    "moisture": 0.606,
+    "highProteinFatScore": 132.7
   },
   {
     "id": "2710839",
@@ -3581,11 +3581,11 @@
     "group": "Grain",
     "protein": 11.2,
     "fat": 9.26,
-    "calcium": 0.061700000000000005,
-    "calories": 0,
-    "phosphorus": 0.517,
-    "moisture": 0,
-    "highProteinFatScore": 36.29
+    "calcium": 61.7,
+    "kcals": 365,
+    "phosphorus": 517,
+    "moisture": 7.42,
+    "highProteinFatScore": 32.58
   },
   {
     "id": "2710840",
@@ -3594,11 +3594,11 @@
     "group": "Grain",
     "protein": 10.2,
     "fat": 3.24,
-    "calcium": 0.00789,
-    "calories": 0,
-    "phosphorus": 0.246,
-    "moisture": 0,
-    "highProteinFatScore": 25.26
+    "calcium": 7.89,
+    "kcals": 350,
+    "phosphorus": 246,
+    "moisture": 11.9,
+    "highProteinFatScore": 19.31
   },
   {
     "id": "2710841",
@@ -3607,11 +3607,11 @@
     "group": "Grain",
     "protein": 10.2,
     "fat": 3.26,
-    "calcium": 0.00745,
-    "calories": 0,
-    "phosphorus": 0.243,
-    "moisture": 0,
-    "highProteinFatScore": 25.29
+    "calcium": 7.45,
+    "kcals": 338,
+    "phosphorus": 243,
+    "moisture": 10.4,
+    "highProteinFatScore": 20.09
   },
   {
     "id": "2710842",
@@ -3620,11 +3620,11 @@
     "group": "Grain",
     "protein": 10.1,
     "fat": 4.22,
-    "calcium": 0.0149,
-    "calories": 0,
-    "phosphorus": 0.294,
-    "moisture": 0,
-    "highProteinFatScore": 26.53
+    "calcium": 14.9,
+    "kcals": 341,
+    "phosphorus": 294,
+    "moisture": 10.6,
+    "highProteinFatScore": 21.23
   },
   {
     "id": "2257044",
@@ -3633,11 +3633,11 @@
     "group": "Vegetable",
     "protein": 2.78,
     "fat": 1.96,
-    "calcium": 0.155,
-    "calories": 0,
-    "phosphorus": 0.046,
-    "moisture": 0,
-    "highProteinFatScore": 8.5
+    "calcium": 155,
+    "kcals": 40.7,
+    "phosphorus": 46.0,
+    "moisture": 91.5,
+    "highProteinFatScore": -37.25
   },
   {
     "id": "1999630",
@@ -3646,11 +3646,11 @@
     "group": "Vegetable",
     "protein": 3.55,
     "fat": 2.12,
-    "calcium": 0.101,
-    "calories": 0,
-    "phosphorus": 0.0686,
-    "moisture": 0,
-    "highProteinFatScore": 10.28
+    "calcium": 101,
+    "kcals": 38.5,
+    "phosphorus": 68.6,
+    "moisture": 92.4,
+    "highProteinFatScore": -35.92
   },
   {
     "id": "1999632",
@@ -3659,11 +3659,11 @@
     "group": "Vegetable",
     "protein": 2.85,
     "fat": 0.619,
-    "calcium": 0.0684,
-    "calories": 0,
-    "phosphorus": 0.039,
-    "moisture": 0,
-    "highProteinFatScore": 6.63
+    "calcium": 68.4,
+    "kcals": 20.7,
+    "phosphorus": 39.0,
+    "moisture": 92.5,
+    "highProteinFatScore": -39.62
   },
   {
     "id": "1999633",
@@ -3672,11 +3672,11 @@
     "group": "Vegetable",
     "protein": 2.91,
     "fat": 0.604,
-    "calcium": 0.06659999999999999,
-    "calories": 0,
-    "phosphorus": 0.040600000000000004,
-    "moisture": 0,
-    "highProteinFatScore": 6.73
+    "calcium": 66.6,
+    "kcals": 21.6,
+    "phosphorus": 40.6,
+    "moisture": 92.4,
+    "highProteinFatScore": -39.47
   },
   {
     "id": "2685568",
@@ -3685,9 +3685,9 @@
     "group": "Vegetable",
     "protein": 0.984,
     "fat": 0.205,
-    "calcium": 0.020800000000000003,
-    "calories": 0,
-    "phosphorus": 0.0329,
+    "calcium": 20.8,
+    "kcals": 0,
+    "phosphorus": 32.9,
     "moisture": 0,
     "highProteinFatScore": 2.28
   },
@@ -3698,9 +3698,9 @@
     "group": "Vegetable",
     "protein": 0.891,
     "fat": 0.135,
-    "calcium": 0.0227,
-    "calories": 0,
-    "phosphorus": 0.0307,
+    "calcium": 22.7,
+    "kcals": 0,
+    "phosphorus": 30.7,
     "moisture": 0,
     "highProteinFatScore": 1.98
   },
@@ -3711,11 +3711,11 @@
     "group": "Vegetable",
     "protein": 1.25,
     "fat": 0.182,
-    "calcium": 0.024800000000000003,
-    "calories": 0,
-    "phosphorus": 0.042,
-    "moisture": 0,
-    "highProteinFatScore": 2.77
+    "calcium": 24.8,
+    "kcals": 42.0,
+    "phosphorus": 42.0,
+    "moisture": 87.2,
+    "highProteinFatScore": -40.83
   },
   {
     "id": "2685570",
@@ -3724,11 +3724,11 @@
     "group": "Vegetable",
     "protein": 1.15,
     "fat": 0.168,
-    "calcium": 0.0217,
-    "calories": 0,
-    "phosphorus": 0.0265,
-    "moisture": 0,
-    "highProteinFatScore": 2.55
+    "calcium": 21.7,
+    "kcals": 41.7,
+    "phosphorus": 26.5,
+    "moisture": 87.3,
+    "highProteinFatScore": -41.1
   },
   {
     "id": "2346409",
@@ -3737,24 +3737,24 @@
     "group": "Fruit",
     "protein": 0.641,
     "fat": 0.22,
-    "calcium": 0.0169,
-    "calories": 0,
-    "phosphorus": 0.023,
-    "moisture": 0,
-    "highProteinFatScore": 1.61
+    "calcium": 16.9,
+    "kcals": 32.7,
+    "phosphorus": 23.0,
+    "moisture": 90.8,
+    "highProteinFatScore": -43.79
   },
   {
     "id": "746784",
     "label": "Sugars, granulated",
     "category": "Sweets",
     "group": "Other",
-    "protein": 0,
+    "protein": 0.0,
     "fat": 0.32,
-    "calcium": 0.001,
-    "calories": 385,
+    "calcium": 1.0,
+    "kcals": 385,
     "phosphorus": 0.0,
-    "moisture": 0,
-    "highProteinFatScore": 0.48
+    "moisture": 0.02,
+    "highProteinFatScore": 0.47
   },
   {
     "id": "2346404",
@@ -3763,11 +3763,11 @@
     "group": "Vegetable",
     "protein": 1.58,
     "fat": 0.375,
-    "calcium": 0.0223,
-    "calories": 0,
-    "phosphorus": 0.0367,
-    "moisture": 0,
-    "highProteinFatScore": 3.72
+    "calcium": 22.3,
+    "kcals": 77.4,
+    "phosphorus": 36.7,
+    "moisture": 79.5,
+    "highProteinFatScore": -36.03
   },
   {
     "id": "2003596",
@@ -3776,11 +3776,11 @@
     "group": "Vegetable",
     "protein": 0.859,
     "fat": 0.288,
-    "calcium": 0.00974,
-    "calories": 0,
-    "phosphorus": 0.0185,
-    "moisture": 0,
-    "highProteinFatScore": 2.15
+    "calcium": 9.74,
+    "kcals": 19.9,
+    "phosphorus": 18.5,
+    "moisture": 93.6,
+    "highProteinFatScore": -44.65
   },
   {
     "id": "2685580",
@@ -3789,11 +3789,11 @@
     "group": "Vegetable",
     "protein": 4.23,
     "fat": 0.732,
-    "calcium": 0.0368,
-    "calories": 0,
-    "phosphorus": 0.0912,
-    "moisture": 0,
-    "highProteinFatScore": 9.56
+    "calcium": 36.8,
+    "kcals": 88.5,
+    "phosphorus": 91.2,
+    "moisture": 71.9,
+    "highProteinFatScore": -26.39
   },
   {
     "id": "2685582",
@@ -3802,11 +3802,11 @@
     "group": "Vegetable",
     "protein": 1.58,
     "fat": 0.265,
-    "calcium": 0.0176,
-    "calories": 0,
-    "phosphorus": 0.034100000000000005,
-    "moisture": 0,
-    "highProteinFatScore": 3.56
+    "calcium": 17.6,
+    "kcals": 34.8,
+    "phosphorus": 34.1,
+    "moisture": 89.1,
+    "highProteinFatScore": -40.99
   },
   {
     "id": "1999634",
@@ -3815,11 +3815,11 @@
     "group": "Vegetable",
     "protein": 0.696,
     "fat": 0.425,
-    "calcium": 0.009960000000000002,
-    "calories": 0,
-    "phosphorus": 0.019100000000000002,
-    "moisture": 0,
-    "highProteinFatScore": 2.03
+    "calcium": 9.96,
+    "kcals": 19.0,
+    "phosphorus": 19.1,
+    "moisture": 94.7,
+    "highProteinFatScore": -45.32
   },
   {
     "id": "2685579",
@@ -3828,11 +3828,11 @@
     "group": "Vegetable",
     "protein": 1.35,
     "fat": 0.382,
-    "calcium": 0.0171,
-    "calories": 0,
-    "phosphorus": 0.0292,
-    "moisture": 0,
-    "highProteinFatScore": 3.27
+    "calcium": 17.1,
+    "kcals": 34.2,
+    "phosphorus": 29.2,
+    "moisture": 90.2,
+    "highProteinFatScore": -41.83
   },
   {
     "id": "333281",
@@ -3841,11 +3841,11 @@
     "group": "Vegetable",
     "protein": 0.84,
     "fat": 0.5,
-    "calcium": 0.03,
-    "calories": 76.0,
-    "phosphorus": 0.018000000000000002,
-    "moisture": 0,
-    "highProteinFatScore": 2.43
+    "calcium": 30.0,
+    "kcals": 18.164435946462714,
+    "phosphorus": 18.0,
+    "moisture": 94.6,
+    "highProteinFatScore": -44.87
   },
   {
     "id": "2685581",
@@ -3854,11 +3854,11 @@
     "group": "Vegetable",
     "protein": 1.44,
     "fat": 0.398,
-    "calcium": 0.0192,
-    "calories": 0,
-    "phosphorus": 0.0329,
-    "moisture": 0,
-    "highProteinFatScore": 3.48
+    "calcium": 19.2,
+    "kcals": 32.3,
+    "phosphorus": 32.9,
+    "moisture": 89.9,
+    "highProteinFatScore": -41.47
   },
   {
     "id": "321360",
@@ -3867,11 +3867,11 @@
     "group": "Vegetable",
     "protein": 0.83,
     "fat": 0.63,
-    "calcium": 0.011,
-    "calories": 113,
-    "phosphorus": 0.028,
-    "moisture": 0,
-    "highProteinFatScore": 2.6
+    "calcium": 11.0,
+    "kcals": 27.007648183556405,
+    "phosphorus": 28.0,
+    "moisture": 92.5,
+    "highProteinFatScore": -43.65
   },
   {
     "id": "2685578",
@@ -3880,11 +3880,11 @@
     "group": "Vegetable",
     "protein": 0.868,
     "fat": 0.206,
-    "calcium": 0.0198,
-    "calories": 0,
-    "phosphorus": 0.0173,
-    "moisture": 0,
-    "highProteinFatScore": 2.04
+    "calcium": 19.8,
+    "kcals": 19.1,
+    "phosphorus": 17.3,
+    "moisture": 93.9,
+    "highProteinFatScore": -44.91
   },
   {
     "id": "746785",
@@ -3893,11 +3893,11 @@
     "group": "Meat",
     "protein": 27.1,
     "fat": 11.6,
-    "calcium": 0.031,
-    "calories": 922,
-    "phosphorus": 0.259,
-    "moisture": 0,
-    "highProteinFatScore": 71.6
+    "calcium": 31.0,
+    "kcals": 220.36328871892925,
+    "phosphorus": 259,
+    "moisture": 61.1,
+    "highProteinFatScore": 41.05
   },
   {
     "id": "2514747",
@@ -3906,11 +3906,11 @@
     "group": "Meat",
     "protein": 17.3,
     "fat": 9.59,
-    "calcium": 0.023600000000000003,
-    "calories": 0,
-    "phosphorus": 0.162,
-    "moisture": 0,
-    "highProteinFatScore": 48.98
+    "calcium": 23.6,
+    "kcals": 158,
+    "phosphorus": 162,
+    "moisture": 72.9,
+    "highProteinFatScore": 12.53
   },
   {
     "id": "2710821",
@@ -3919,11 +3919,11 @@
     "group": "Grain",
     "protein": 12.8,
     "fat": 1.7,
-    "calcium": 0.00797,
-    "calories": 0,
-    "phosphorus": 0.355,
-    "moisture": 0,
-    "highProteinFatScore": 28.15
+    "calcium": 7.97,
+    "kcals": 359,
+    "phosphorus": 355,
+    "moisture": 8.43,
+    "highProteinFatScore": 23.94
   },
   {
     "id": "330137",
@@ -3932,11 +3932,11 @@
     "group": "Dairy",
     "protein": 10.3,
     "fat": 0.37,
-    "calcium": 0.111,
-    "calories": 61.0,
-    "phosphorus": 0.136,
-    "moisture": 0,
-    "highProteinFatScore": 21.16
+    "calcium": 111,
+    "kcals": 61.0,
+    "phosphorus": 136,
+    "moisture": 85.0,
+    "highProteinFatScore": -21.34
   },
   {
     "id": "2259794",
@@ -3945,11 +3945,11 @@
     "group": "Dairy",
     "protein": 8.78,
     "fat": 4.39,
-    "calcium": 0.111,
-    "calories": 0,
-    "phosphorus": 0.126,
-    "moisture": 0,
-    "highProteinFatScore": 24.14
+    "calcium": 111,
+    "kcals": 94.5,
+    "phosphorus": 126,
+    "moisture": 81.3,
+    "highProteinFatScore": -16.51
   },
   {
     "id": "330415",
@@ -3958,11 +3958,11 @@
     "group": "Dairy",
     "protein": 8.06,
     "fat": 0.15,
-    "calcium": 0.097,
-    "calories": 347,
-    "phosphorus": 0.113,
-    "moisture": 0,
-    "highProteinFatScore": 16.35
+    "calcium": 97.0,
+    "kcals": 82.93499043977054,
+    "phosphorus": 113,
+    "moisture": 79.0,
+    "highProteinFatScore": -23.15
   },
   {
     "id": "2647437",
@@ -3971,11 +3971,11 @@
     "group": "Dairy",
     "protein": 4.23,
     "fat": 0.087,
-    "calcium": 0.167,
-    "calories": 0,
-    "phosphorus": 0.127,
-    "moisture": 0,
-    "highProteinFatScore": 8.59
+    "calcium": 167,
+    "kcals": 50.1,
+    "phosphorus": 127,
+    "moisture": 86.6,
+    "highProteinFatScore": -34.71
   },
   {
     "id": "2259793",
@@ -3984,10 +3984,10 @@
     "group": "Dairy",
     "protein": 3.82,
     "fat": 4.48,
-    "calcium": 0.127,
-    "calories": 0,
-    "phosphorus": 0.101,
-    "moisture": 0,
-    "highProteinFatScore": 14.36
+    "calcium": 127,
+    "kcals": 77.3,
+    "phosphorus": 101,
+    "moisture": 85.3,
+    "highProteinFatScore": -28.29
   }
 ]

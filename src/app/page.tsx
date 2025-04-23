@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Ingredient, getIngredients } from "./ingredient";
 import Recipe from "./recipe";
 
@@ -12,6 +12,26 @@ export default function Home() {
   );
   const [amount, setAmount] = useState("");
   const [recipe, setRecipe] = useState<Ingredient[]>([]);
+
+  // When the recipe updates, save to localStorage
+  useEffect(() => {
+    if (recipe.length > 0) {
+      localStorage.setItem("savedRecipe", JSON.stringify(recipe));
+    }
+  }, [recipe]);
+
+  // On first load, try to restore saved recipe
+  useEffect(() => {
+    const saved = localStorage.getItem("savedRecipe");
+    if (saved) {
+      try {
+        const parsed = JSON.parse(saved);
+        setRecipe(parsed);
+      } catch (error) {
+        console.error("Failed to parse saved recipe", error);
+      }
+    }
+  }, []);
 
   const handleAddIngredient = () => {
     if (!amount) return;

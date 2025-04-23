@@ -12,6 +12,9 @@ export default function Home() {
   );
   const [amount, setAmount] = useState("");
   const [recipe, setRecipe] = useState<Ingredient[]>([]);
+  const [savedRecipes, setSavedRecipes] = useState<
+    { name: string; recipe: any[] }[]
+  >([]);
 
   // When the recipe updates, save to localStorage
   useEffect(() => {
@@ -22,16 +25,29 @@ export default function Home() {
 
   // On first load, try to restore saved recipe
   useEffect(() => {
-    const saved = localStorage.getItem("savedRecipe");
+    const saved = localStorage.getItem("savedRecipes");
     if (saved) {
-      try {
-        const parsed = JSON.parse(saved);
-        setRecipe(parsed);
-      } catch (error) {
-        console.error("Failed to parse saved recipe", error);
-      }
+      setSavedRecipes(JSON.parse(saved));
     }
   }, []);
+
+  const loadRecipe = (recipeToLoad: any[]) => {
+    setRecipe(recipeToLoad);
+  };
+
+  const saveNewRecipe = () => {
+    const name = prompt("Enter a name for your recipe:");
+    if (!name) return;
+
+    const savedRecipes = JSON.parse(
+      localStorage.getItem("savedRecipes") || "[]"
+    );
+
+    // Add new one
+    savedRecipes.push({ name, recipe });
+
+    localStorage.setItem("savedRecipes", JSON.stringify(savedRecipes));
+  };
 
   const handleAddIngredient = () => {
     if (!amount) return;
@@ -68,6 +84,34 @@ export default function Home() {
         <h1 className="text-3xl font-bold text-center text-gray-700 mb-6">
           Pet Food Recipe Builder
         </h1>
+
+        <div className="flex gap-4 mb-4">
+          <button
+            onClick={saveNewRecipe}
+            className="px-4 py-2 bg-green-500 text-white rounded"
+          >
+            Save Current Recipe
+          </button>
+
+          <select
+            className="px-4 py-2 bg-green-500 text-white rounded"
+            onChange={(e) => {
+              const selected = savedRecipes.find(
+                (r) => r.name === e.target.value
+              );
+              if (selected) {
+                loadRecipe(selected.recipe);
+              }
+            }}
+          >
+            <option value="">Load Saved Recipe</option>
+            {savedRecipes.map((r) => (
+              <option key={r.name} value={r.name}>
+                {r.name}
+              </option>
+            ))}
+          </select>
+        </div>
 
         <div className="flex flex-col gap-4 mb-8">
           <label className="flex flex-col">

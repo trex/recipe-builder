@@ -8,6 +8,8 @@ export interface Ingredient {
   group: string;
   protein: number;
   fat: number;
+  ash: number;
+  fiber: number;
   calcium: number;
   kcals: number;
   phosphorus: number;

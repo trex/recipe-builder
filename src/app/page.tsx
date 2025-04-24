@@ -67,6 +67,8 @@ export default function Home() {
         group: ingredientData.group,
         protein: ingredientData.protein,
         fat: ingredientData.fat,
+        ash: ingredientData.ash,
+        fiber: ingredientData.fiber,
         calcium: ingredientData.calcium,
         kcals: ingredientData.kcals,
         phosphorus: ingredientData.phosphorus,

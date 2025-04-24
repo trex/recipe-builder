@@ -44,9 +44,17 @@ energy_names = [
     "Energy (Atwater Specific Factors)"
 ]
 
+preferred_fiber_name = "Total dietary fiber (AOAC 2011.25)"
+fiber_names = [
+    preferred_fiber_name,
+    "Fiber, total dietary"
+]
+
 expected_nutrients = {
     'Protein': ('protein', 'g'),
     'Total lipid (fat)': ('fat', 'g'),
+    'Ash': ('ash', 'g'),
+    'Fiber': ('fiber', 'g'),
     'Calcium, Ca': ('calcium', 'mg'),
     'Energy': ('kcals', 'kcal'),
     'Phosphorus, P': ('phosphorus', 'mg'),
@@ -60,9 +68,9 @@ for food in data['FoundationFoods']:
     description = food.get('description')
     raw_category = food.get('foodCategory', {}).get('description', 'Unknown')
     broad_category = map_category(raw_category)
+    preferred_fiber_value_set = False
 
     nutrient_values = {v[0]: 0 for v in expected_nutrients.values()}
-
 
     for nutrient in food.get('foodNutrients', []):
         nutrient_info = nutrient.get('nutrient', {})
@@ -87,6 +95,15 @@ for food in data['FoundationFoods']:
                 continue
 
             nutrient_values[field_name] = amount
+
+        # Take the preferred Total Fiber measurement if multiple are provided
+        if name in fiber_names:
+            if name == preferred_fiber_name:
+                nutrient_values['fiber'] = amount
+                preferred_fiber_value_set = True
+            elif not preferred_fiber_value_set:
+                nutrient_values['fiber'] = amount
+
 
     # Filter: Keep foods with some protein or fat
     if nutrient_values['protein'] > 0 or nutrient_values['fat'] > 0:
